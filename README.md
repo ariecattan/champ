@@ -2,6 +2,11 @@
 
 This repository includes the code of CHAMP, an effective tool for annotating and consolidating a hierarchy of clusters. 
 
+If you use this tool for your research, please cite our EMNLP 2023 paper: 
+CHAMP: Efficient Annotation and Consolidation of Cluster Hierarchies
+
+
+
 ## Annotation:
 
 ![Alt text](src/assets/annotation.png)
