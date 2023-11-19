@@ -2,9 +2,23 @@
 
 This repository includes the code of CHAMP, an effective tool for annotating and consolidating a hierarchy of clusters. 
 
-There are several ways to use `CHAMP`:
+## Annotation:
 
-## Use CHAMP 
+![Alt text](src/assets/annotation.png)
+
+
+## Consolidation
+
+<p align="center">
+  <img src="src/assets/cons_coref.png" width="49%" />
+  <img src="src/assets/cons_hierarchy.png" width="49%" />
+</p>
+
+
+For a full walkthrough of CHAMP's features, check out our system demonstration video on [youtube](https://youtu.be/1n4d6RyAP0M|).
+
+
+## How to use CHAMP?
 
 ### 1.  Annotation portal 
 
