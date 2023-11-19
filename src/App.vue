@@ -823,7 +823,7 @@ export default {
 
     getSelection() {
       let sel = document
-        .getElementsByTagName("co-refi")[0]
+        .getElementsByTagName("champ")[0]
         .shadowRoot.getSelection(), //super hacky but works
         start = parseInt(
           sel.getRangeAt(0).startContainer.parentNode.id.replace("token-", "")

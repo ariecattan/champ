@@ -1,10 +1,10 @@
 {
-  "name": "cdc-annotation-tool",
+  "name": "champ-annotation-tool",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build --mode production --target wc --name co-refi ./src/App.vue",
+    "build": "vue-cli-service build --mode production --target wc --name champ-app ./src/App.vue",
     "lint": "vue-cli-service lint",
     "test": "jest",
     "test:watch": "jest --watchAll"

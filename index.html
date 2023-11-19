@@ -17,7 +17,7 @@
 
 <crowd-form answer-format="flatten-objects" answer-format="flatten-objects">
   <div data-app>
-    <co-refi json="${data}"></co-refi>
+    <champ-app json="${data}"></champ-app>
   </div>
   <crowd-input id="result" name="result" style="display: none;"></crowd-input>
 
@@ -25,7 +25,7 @@
 
 <script>
   import jsonData from "./data/sentiment_examples.json" //"../../coref-hypernym/data/scirex2/135.json" //"./data/sentiment_examples.json" //"./data/scirex_example_.json"; 
-let coRefi = document.getElementsByTagName("co-refi")[0].vueComponent;
+let coRefi = document.getElementsByTagName("champ-app")[0].vueComponent;
 
 document.querySelector('crowd-form').onsubmit = function (){
     let resultFeild = document.getElementById("result");

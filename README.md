@@ -30,7 +30,7 @@ Load `CHAMP` using CDN and embed the app as a WebComponent
 
 ```html
 <script src="https://unpkg.com/vue"></script>
-<script src="https://github.com/ariecattan/champ/releases/download/1.0.0/champ.min.js"></script>
+<script src="https://github.com/ariecattan/champ/releases/download/1.0.0/champ-app.min.js"></script>
 
 <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css" rel="stylesheet">
@@ -40,13 +40,13 @@ Load `CHAMP` using CDN and embed the app as a WebComponent
 
 
 ```html
-<champ json="{html escaped json config}" ></champ>
+<champ-app json="{html escaped json config}" ></champ-app>
 ```
 
 Results can be then extracted as follows:
 
 ```javascript
-let champ = document.getElementsByTagName("champ")[0].vueComponent;
+let champ = document.getElementsByTagName("champ-app")[0].vueComponent;
 let results = {tokens:champ.tokens, mentions:champ.mentions}
 JSON.stringify(results);
 ```
