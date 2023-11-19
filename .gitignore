@@ -2,3 +2,5 @@ node_modules
 notebooks
 data
 internal_trial
+dist
+.DS_Store
