@@ -1,0 +1,272 @@
+{
+    "mode": "onboarding",
+    "hierarchy": true,
+    "fixableSpans":false,
+    "reassignable":false,
+    "tokens": [
+        {
+            "i": 0,
+            "document": 0,
+            "text": "Friendly"
+        },
+        {
+            "i": 1,
+            "document": 0,
+            "text": "Service"
+        },
+        {
+            "i": 2,
+            "document": 0,
+            "text": "all"
+        },
+        {
+            "i": 3,
+            "document": 0,
+            "text": "around."
+        },
+        {
+            "i": 4,
+            "document": 1,
+            "text": "Staff"
+        },
+        {
+            "i": 5,
+            "document": 1,
+            "text": "was"
+        },
+        {
+            "i": 6,
+            "document": 1,
+            "text": "nice"
+        },
+        {
+            "i": 7,
+            "document": 1,
+            "text": "and"
+        },
+        {
+            "i": 8,
+            "document": 1,
+            "text": "helpful"
+        },
+        {
+            "i": 9,
+            "document": 2,
+            "text": "Vallet"
+        },
+        {
+            "i": 10,
+            "document": 2,
+            "text": "was"
+        },
+        {
+            "i": 11,
+            "document": 2,
+            "text": "quick"
+        },
+        {
+            "i": 12,
+            "document": 2,
+            "text": "and"
+        },
+        {
+            "i": 13,
+            "document": 2,
+            "text": "helpful."
+        },
+        {
+            "i": 14,
+            "document": 3,
+            "text": "The"
+        },
+        {
+            "i": 15,
+            "document": 3,
+            "text": "rooms"
+        },
+        {
+            "i": 16,
+            "document": 3,
+            "text": "are"
+        },
+        {
+            "i": 17,
+            "document": 3,
+            "text": "comfortable"
+        }
+    ],
+    "mentions": [
+        {
+            "start": 0,
+            "end": 3,
+            "clustId": ["0-3"]
+        },
+        {
+            "start": 4,
+            "end": 8,
+            "clustId": ["0-3"]
+        },
+        {
+            "start": 9,
+            "end": 13,
+            "clustId": ["9-13"]
+        },
+        {
+            "start": 14,
+            "end": 17,
+            "clustId": ["14-17"]
+        }
+    ],
+    "selectedCluster": "0-3",
+    "tourSteps" : [
+        {
+            "target": "#dashboard",
+            "header": {
+                "title": "CoRefi Onboarding!"
+            },
+            "content": "This experience will walkthrough how to perform the annotation of Key Point Hierarchy."
+        },
+        {
+            "target": "#dashboard",
+            "header": {
+                "title": "CoRefi Getting Started!"
+            },
+            "content": "Displayed on the screen below is a document and two Key Points."
+        },
+        {
+            "target": ".cluster",
+            "header": {
+                "title": "Cluster Key Points"
+            },
+            "content": "The first Key Point is automatically assigned to its own Key Point <span class=\"cluster\">Cluster</span>."
+        },
+        {
+            "target": ".v-chip--active",
+            "header": {
+                "title": "Cluster Bank"
+            },
+            "content": "Clusters are managed in the cluster bank.",
+            "params": {
+                "placement": "top"
+              }
+        },
+        {
+            "target": ".v-chip--active",
+            "header": {
+                "title": "Selecting Clusters"
+            },
+            "content": "Clusters can be selected with the arrow keys in the cluster bank, or by clicking on a previously assigned key point.",
+            "params": {
+                "placement": "top"
+              }
+        },
+        {
+            "target": ".current",
+            "header": {
+                "title": "Current Key Point"
+            },
+            "content": "The current key point is underlined in <span class=\"current\">purple</span>."
+        },
+        {
+            "target": ".current",
+            "header": {
+                "title": "Assigning Key Points"
+            },
+            "content": "The <span class=\"current\">current key point</span> can be assigned to the <span class=\"cluster\">selected cluster</span> with the SPACE bar."
+        },
+        {
+            "target": ".current",
+            "header": {
+                "title": "Assigning a New Cluster"
+            },
+            "content": "If the current key point does not belong to any cluster in the cluster bank, it can be assigned to new cluster with Ctrl + SPACE (Windows) or Option + SPACE (MacOS), or click on the <span style='color:#2d9cdb;background-color:#ddeff9'> + </span> at the bottom left."
+        },
+        {
+            "target": ".current",
+            "header": {
+                "title": "Reassigning a Key Point"
+            },
+            "content": "If a key point was incorrectly assigned, you can select it for reassignment at any point with Ctrl + Click (Windows) or Option + Click (MacOS) or Double Click (ALL) on the key point."
+        },
+        {
+            "target": ".help",
+            "header": {
+                "title": "Help and Controls"
+            },
+            "content": "If you ever forget any of the controls, all of CoRefi's functionality can be found in the help menu. Just click on the black '?' in the top left corner of the screen."
+        }, 
+        {
+            "target": ".hypernym",
+            "header": {
+                "title": "Hierarchy"
+            },
+            "params": {
+                "placement": "left"
+            },
+            "content": "Here, you will build the hierarchy of Key Points using drag-and-drop. You can alternate between key point clustering and the hierarchy."
+        },
+        {
+            "target": ".reset",
+            "header": {
+                "title": "Reset Hierarchy"
+            },
+            "params": {
+                "placement": "right"
+            },
+            "content": "Click on this Reset button if you want to start the hierarchy from scratch."
+        },
+        {
+            "target": ".sort",
+            "header": {
+                "title": "Sort Hierarchy"
+            },
+            "params": {
+                "placement": "right"
+            },
+            "content": "Clicking on the ''Sort'' button will sort alphabetically all key points under the same parent."
+        },
+        {
+            "target": ".current",
+            "header": {
+                "title": "Start The Annotation"
+            },
+            "content": "Let's start the annotation. ''Staff was nice and helpful'' has roughly the same underlying meaning as the key point ''Friendly Service all around'', please assign the current key point to the selected one and continue to the next key points."
+        }
+    ],
+    "myOptions": {
+        "labels": {
+            "buttonSkip": "Skip tour",
+            "buttonPrevious": "Previous",
+            "buttonNext": "Next",
+            "buttonStop": "Start Annotation"
+        }
+    },
+    "goldMentions": [
+        {
+            "start": 4,
+            "end": 8,
+            "clustId": ["0-3"],
+            "validMessage": "Great! You succesfully linked them together and added it to the same node in the hierarchy!",
+            "defaultErrorMessage": "Not quite! Staff was nice and helpful captures the same idea as the selected key point!"
+        },
+        {
+            "start": 9,
+            "end": 13,
+            "clustId": ["9-13"],
+            "validMessage": "Correct! Altough the vallet is part of the service/staff, this key point is more specific and should be put under the more general key point in the hierarchy! Now that you've created a new node, drag it under the key point about the staff!",
+            "defaultErrorMessage": "That's not quite right, the vallet is more specific than the entire staff! Please first create a new node then drag it under the general key point."
+        },
+        {
+            "start": 14,
+            "end": 17,
+            "clustId": ["14-17"],
+            "validMessage": "Correct! This is a completely new idea!",
+            "clusterErrorMessages":{
+                "0-3": "That's not quite right! Room comfort is not related to the staff service!",
+                "9-13": "That's not quite right! Room comfort is not related to the vallet!"
+            }
+        }
+    ],
+    "snackbarTimeout": -1,
+    "documentName": "Key Point"
+}

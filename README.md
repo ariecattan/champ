@@ -35,7 +35,7 @@ Load `CHAMP` using CDN and embed the app as a WebComponent
 
 ```html
 <script src="https://unpkg.com/vue"></script>
-<script src="https://github.com/ariecattan/champ/releases/download/1.0.0/champ-app.min.js"></script>
+<script src="https://github.com/ariecattan/champ/releases/download/v1.0.0/champ-app.min.js"></script>
 
 <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
 <link href="https://cdn.jsdelivr.net/npm/@mdi/font@5.x/css/materialdesignicons.min.css" rel="stylesheet">
@@ -73,17 +73,14 @@ $ npm run --serve
 
 ## Configurate champ
 
-You can find example of input JSON files for each model in `src/examples`.
+You can find example of input JSON files for each model in `src/examples`. 
 
 See below the important parameters in the JSON config file:
 * `mode`: (onboarding, annotation, reviewer)
 * `hierarchy`: (true or false) whether to allow or not annotation of hierarchy between clusters
 * `tokens`: list of flatten tokens from all documents, each token needs to include {`i`: incremental index, `document`: doc_id of the document, `text`} and optionally `paragraph` 
 * `mentions`: list of candidate mentions to annotate, each mention needs to include {`start`, `end`}. In addition, in the onboarding and reviewer mode, you also need to add a `clustId` field for each mention, which is an array of cluster IDs. The format of each cluster ID is "start-end" of the first mention in the cluster. For the annotation mode, only the first mention needs to have a `clustId`. 
-
-
-Configurable options:
-* `local`: True of False, whether to add a button for downloading the annotation at the end of the annotation
+* `local`: True of False, whether to add a button for downloading the annotation at the end of the annotation. The downloaded annotation file can be further uploaded to the tool for vizualizing your annotation/consolidation. 
 
 The hierarchy of clusters is built using simple drag-and-drop operations. 
 
@@ -94,7 +91,10 @@ Anntotators may also add notes for each node.
 Please refer to our [website](https://scico.apps.allenai.org/tool) for more details on the tool functionaly. 
 
 
----
+## Scripts to create consolidation file
+
+TODO: add scripts
+
 
 ## License
 

@@ -1,0 +1,1826 @@
+{
+    "mode": "annotation",
+    "fixableSpans": false,
+    "newMentions": false,
+    "reassignable": true,
+    "tokens": [
+        {
+            "i": 0,
+            "document": 0,
+            "paragraph": 0,
+            "text": "ZZZ"
+        },
+        {
+            "i": 1,
+            "document": 0,
+            "paragraph": 0,
+            "text": "\u2013"
+        },
+        {
+            "i": 2,
+            "document": 0,
+            "paragraph": 0,
+            "text": "No"
+        },
+        {
+            "i": 3,
+            "document": 0,
+            "paragraph": 0,
+            "text": "clear"
+        },
+        {
+            "i": 4,
+            "document": 0,
+            "paragraph": 0,
+            "text": "stance,"
+        },
+        {
+            "i": 5,
+            "document": 0,
+            "paragraph": 0,
+            "text": "Multiple"
+        },
+        {
+            "i": 6,
+            "document": 0,
+            "paragraph": 0,
+            "text": "ideas,"
+        },
+        {
+            "i": 7,
+            "document": 0,
+            "paragraph": 0,
+            "text": "Wrong"
+        },
+        {
+            "i": 8,
+            "document": 0,
+            "paragraph": 0,
+            "text": "polarity,"
+        },
+        {
+            "i": 9,
+            "document": 0,
+            "paragraph": 0,
+            "text": "Unclear"
+        },
+        {
+            "i": 10,
+            "document": 0,
+            "paragraph": 0,
+            "text": "or"
+        },
+        {
+            "i": 11,
+            "document": 0,
+            "paragraph": 0,
+            "text": "not"
+        },
+        {
+            "i": 12,
+            "document": 0,
+            "paragraph": 0,
+            "text": "self-contained"
+        },
+        {
+            "i": 13,
+            "document": 1,
+            "paragraph": 0,
+            "text": "Food"
+        },
+        {
+            "i": 14,
+            "document": 1,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 15,
+            "document": 1,
+            "paragraph": 0,
+            "text": "service"
+        },
+        {
+            "i": 16,
+            "document": 1,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 17,
+            "document": 1,
+            "paragraph": 0,
+            "text": "excellent."
+        },
+        {
+            "i": 18,
+            "document": 2,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 19,
+            "document": 2,
+            "paragraph": 0,
+            "text": "food"
+        },
+        {
+            "i": 20,
+            "document": 2,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 21,
+            "document": 2,
+            "paragraph": 0,
+            "text": "absolutely"
+        },
+        {
+            "i": 22,
+            "document": 2,
+            "paragraph": 0,
+            "text": "delicious."
+        },
+        {
+            "i": 23,
+            "document": 3,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 24,
+            "document": 3,
+            "paragraph": 0,
+            "text": "steak"
+        },
+        {
+            "i": 25,
+            "document": 3,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 26,
+            "document": 3,
+            "paragraph": 0,
+            "text": "amazing."
+        },
+        {
+            "i": 27,
+            "document": 4,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 28,
+            "document": 4,
+            "paragraph": 0,
+            "text": "ambience"
+        },
+        {
+            "i": 29,
+            "document": 4,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 30,
+            "document": 4,
+            "paragraph": 0,
+            "text": "wonderful."
+        },
+        {
+            "i": 31,
+            "document": 5,
+            "paragraph": 0,
+            "text": "Staff"
+        },
+        {
+            "i": 32,
+            "document": 5,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 33,
+            "document": 5,
+            "paragraph": 0,
+            "text": "top"
+        },
+        {
+            "i": 34,
+            "document": 5,
+            "paragraph": 0,
+            "text": "notch."
+        },
+        {
+            "i": 35,
+            "document": 6,
+            "paragraph": 0,
+            "text": "Great"
+        },
+        {
+            "i": 36,
+            "document": 6,
+            "paragraph": 0,
+            "text": "food"
+        },
+        {
+            "i": 37,
+            "document": 6,
+            "paragraph": 0,
+            "text": "too."
+        },
+        {
+            "i": 38,
+            "document": 7,
+            "paragraph": 0,
+            "text": "Amazing"
+        },
+        {
+            "i": 39,
+            "document": 7,
+            "paragraph": 0,
+            "text": "quality"
+        },
+        {
+            "i": 40,
+            "document": 7,
+            "paragraph": 0,
+            "text": "food."
+        },
+        {
+            "i": 41,
+            "document": 8,
+            "paragraph": 0,
+            "text": "Friendly"
+        },
+        {
+            "i": 42,
+            "document": 8,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 43,
+            "document": 8,
+            "paragraph": 0,
+            "text": "quick"
+        },
+        {
+            "i": 44,
+            "document": 8,
+            "paragraph": 0,
+            "text": "service."
+        },
+        {
+            "i": 45,
+            "document": 9,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 46,
+            "document": 9,
+            "paragraph": 0,
+            "text": "side"
+        },
+        {
+            "i": 47,
+            "document": 9,
+            "paragraph": 0,
+            "text": "dishes"
+        },
+        {
+            "i": 48,
+            "document": 9,
+            "paragraph": 0,
+            "text": "were"
+        },
+        {
+            "i": 49,
+            "document": 9,
+            "paragraph": 0,
+            "text": "amazing."
+        },
+        {
+            "i": 50,
+            "document": 10,
+            "paragraph": 0,
+            "text": "Very"
+        },
+        {
+            "i": 51,
+            "document": 10,
+            "paragraph": 0,
+            "text": "attentive"
+        },
+        {
+            "i": 52,
+            "document": 10,
+            "paragraph": 0,
+            "text": "staff."
+        },
+        {
+            "i": 53,
+            "document": 11,
+            "paragraph": 0,
+            "text": "Steaks"
+        },
+        {
+            "i": 54,
+            "document": 11,
+            "paragraph": 0,
+            "text": "are"
+        },
+        {
+            "i": 55,
+            "document": 11,
+            "paragraph": 0,
+            "text": "consistently"
+        },
+        {
+            "i": 56,
+            "document": 11,
+            "paragraph": 0,
+            "text": "perfect."
+        },
+        {
+            "i": 57,
+            "document": 12,
+            "paragraph": 0,
+            "text": "Great"
+        },
+        {
+            "i": 58,
+            "document": 12,
+            "paragraph": 0,
+            "text": "service"
+        },
+        {
+            "i": 59,
+            "document": 12,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 60,
+            "document": 12,
+            "paragraph": 0,
+            "text": "knowledgeable"
+        },
+        {
+            "i": 61,
+            "document": 12,
+            "paragraph": 0,
+            "text": "staff."
+        },
+        {
+            "i": 62,
+            "document": 13,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 63,
+            "document": 13,
+            "paragraph": 0,
+            "text": "food"
+        },
+        {
+            "i": 64,
+            "document": 13,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 65,
+            "document": 13,
+            "paragraph": 0,
+            "text": "well"
+        },
+        {
+            "i": 66,
+            "document": 13,
+            "paragraph": 0,
+            "text": "prepared."
+        },
+        {
+            "i": 67,
+            "document": 14,
+            "paragraph": 0,
+            "text": "Love"
+        },
+        {
+            "i": 68,
+            "document": 14,
+            "paragraph": 0,
+            "text": "the"
+        },
+        {
+            "i": 69,
+            "document": 14,
+            "paragraph": 0,
+            "text": "staff."
+        },
+        {
+            "i": 70,
+            "document": 15,
+            "paragraph": 0,
+            "text": "We"
+        },
+        {
+            "i": 71,
+            "document": 15,
+            "paragraph": 0,
+            "text": "love"
+        },
+        {
+            "i": 72,
+            "document": 15,
+            "paragraph": 0,
+            "text": "the"
+        },
+        {
+            "i": 73,
+            "document": 15,
+            "paragraph": 0,
+            "text": "food"
+        },
+        {
+            "i": 74,
+            "document": 15,
+            "paragraph": 0,
+            "text": "here!"
+        },
+        {
+            "i": 75,
+            "document": 16,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 76,
+            "document": 16,
+            "paragraph": 0,
+            "text": "seafood"
+        },
+        {
+            "i": 77,
+            "document": 16,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 78,
+            "document": 16,
+            "paragraph": 0,
+            "text": "perfect."
+        },
+        {
+            "i": 79,
+            "document": 17,
+            "paragraph": 0,
+            "text": "Great"
+        },
+        {
+            "i": 80,
+            "document": 17,
+            "paragraph": 0,
+            "text": "lively"
+        },
+        {
+            "i": 81,
+            "document": 17,
+            "paragraph": 0,
+            "text": "atmosphere!"
+        },
+        {
+            "i": 82,
+            "document": 18,
+            "paragraph": 0,
+            "text": "Filet"
+        },
+        {
+            "i": 83,
+            "document": 18,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 84,
+            "document": 18,
+            "paragraph": 0,
+            "text": "cooked"
+        },
+        {
+            "i": 85,
+            "document": 18,
+            "paragraph": 0,
+            "text": "precisely."
+        },
+        {
+            "i": 86,
+            "document": 19,
+            "paragraph": 0,
+            "text": "Waiter-very"
+        },
+        {
+            "i": 87,
+            "document": 19,
+            "paragraph": 0,
+            "text": "personable,"
+        },
+        {
+            "i": 88,
+            "document": 19,
+            "paragraph": 0,
+            "text": "kind,"
+        },
+        {
+            "i": 89,
+            "document": 19,
+            "paragraph": 0,
+            "text": "informative."
+        },
+        {
+            "i": 90,
+            "document": 20,
+            "paragraph": 0,
+            "text": "Our"
+        },
+        {
+            "i": 91,
+            "document": 20,
+            "paragraph": 0,
+            "text": "waiter"
+        },
+        {
+            "i": 92,
+            "document": 20,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 93,
+            "document": 20,
+            "paragraph": 0,
+            "text": "awesome."
+        },
+        {
+            "i": 94,
+            "document": 21,
+            "paragraph": 0,
+            "text": "Best"
+        },
+        {
+            "i": 95,
+            "document": 21,
+            "paragraph": 0,
+            "text": "steak"
+        },
+        {
+            "i": 96,
+            "document": 21,
+            "paragraph": 0,
+            "text": "ever!"
+        },
+        {
+            "i": 97,
+            "document": 22,
+            "paragraph": 0,
+            "text": "Waitstaff"
+        },
+        {
+            "i": 98,
+            "document": 22,
+            "paragraph": 0,
+            "text": "incredibly"
+        },
+        {
+            "i": 99,
+            "document": 22,
+            "paragraph": 0,
+            "text": "professional."
+        },
+        {
+            "i": 100,
+            "document": 23,
+            "paragraph": 0,
+            "text": "Staff"
+        },
+        {
+            "i": 101,
+            "document": 23,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 102,
+            "document": 23,
+            "paragraph": 0,
+            "text": "polite"
+        },
+        {
+            "i": 103,
+            "document": 23,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 104,
+            "document": 23,
+            "paragraph": 0,
+            "text": "genuine."
+        },
+        {
+            "i": 105,
+            "document": 24,
+            "paragraph": 0,
+            "text": "Staff"
+        },
+        {
+            "i": 106,
+            "document": 24,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 107,
+            "document": 24,
+            "paragraph": 0,
+            "text": "also"
+        },
+        {
+            "i": 108,
+            "document": 24,
+            "paragraph": 0,
+            "text": "very"
+        },
+        {
+            "i": 109,
+            "document": 24,
+            "paragraph": 0,
+            "text": "helpful."
+        },
+        {
+            "i": 110,
+            "document": 25,
+            "paragraph": 0,
+            "text": "Modern"
+        },
+        {
+            "i": 111,
+            "document": 25,
+            "paragraph": 0,
+            "text": "cool"
+        },
+        {
+            "i": 112,
+            "document": 25,
+            "paragraph": 0,
+            "text": "atmosphere."
+        },
+        {
+            "i": 113,
+            "document": 26,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 114,
+            "document": 26,
+            "paragraph": 0,
+            "text": "dinner"
+        },
+        {
+            "i": 115,
+            "document": 26,
+            "paragraph": 0,
+            "text": "menu"
+        },
+        {
+            "i": 116,
+            "document": 26,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 117,
+            "document": 26,
+            "paragraph": 0,
+            "text": "fabulous."
+        },
+        {
+            "i": 118,
+            "document": 27,
+            "paragraph": 0,
+            "text": "Dessert"
+        },
+        {
+            "i": 119,
+            "document": 27,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 120,
+            "document": 27,
+            "paragraph": 0,
+            "text": "outstanding!"
+        },
+        {
+            "i": 121,
+            "document": 28,
+            "paragraph": 0,
+            "text": "Drinks"
+        },
+        {
+            "i": 122,
+            "document": 28,
+            "paragraph": 0,
+            "text": "were"
+        },
+        {
+            "i": 123,
+            "document": 28,
+            "paragraph": 0,
+            "text": "great."
+        },
+        {
+            "i": 124,
+            "document": 29,
+            "paragraph": 0,
+            "text": "Mac"
+        },
+        {
+            "i": 125,
+            "document": 29,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 126,
+            "document": 29,
+            "paragraph": 0,
+            "text": "cheese"
+        },
+        {
+            "i": 127,
+            "document": 29,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 128,
+            "document": 29,
+            "paragraph": 0,
+            "text": "perfect."
+        },
+        {
+            "i": 129,
+            "document": 30,
+            "paragraph": 0,
+            "text": "Wine"
+        },
+        {
+            "i": 130,
+            "document": 30,
+            "paragraph": 0,
+            "text": "selection"
+        },
+        {
+            "i": 131,
+            "document": 30,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 132,
+            "document": 30,
+            "paragraph": 0,
+            "text": "very"
+        },
+        {
+            "i": 133,
+            "document": 30,
+            "paragraph": 0,
+            "text": "good."
+        },
+        {
+            "i": 134,
+            "document": 31,
+            "paragraph": 0,
+            "text": "Fresh"
+        },
+        {
+            "i": 135,
+            "document": 31,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 136,
+            "document": 31,
+            "paragraph": 0,
+            "text": "tasty."
+        },
+        {
+            "i": 137,
+            "document": 32,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 138,
+            "document": 32,
+            "paragraph": 0,
+            "text": "food"
+        },
+        {
+            "i": 139,
+            "document": 32,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 140,
+            "document": 32,
+            "paragraph": 0,
+            "text": "outrageous."
+        },
+        {
+            "i": 141,
+            "document": 33,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 142,
+            "document": 33,
+            "paragraph": 0,
+            "text": "wagyu"
+        },
+        {
+            "i": 143,
+            "document": 33,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 144,
+            "document": 33,
+            "paragraph": 0,
+            "text": "phenomenal"
+        },
+        {
+            "i": 145,
+            "document": 34,
+            "paragraph": 0,
+            "text": "Nice"
+        },
+        {
+            "i": 146,
+            "document": 34,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 147,
+            "document": 34,
+            "paragraph": 0,
+            "text": "tender!"
+        },
+        {
+            "i": 148,
+            "document": 35,
+            "paragraph": 0,
+            "text": "Great"
+        },
+        {
+            "i": 149,
+            "document": 35,
+            "paragraph": 0,
+            "text": "food"
+        },
+        {
+            "i": 150,
+            "document": 35,
+            "paragraph": 0,
+            "text": "with"
+        },
+        {
+            "i": 151,
+            "document": 35,
+            "paragraph": 0,
+            "text": "generous"
+        },
+        {
+            "i": 152,
+            "document": 35,
+            "paragraph": 0,
+            "text": "portions."
+        },
+        {
+            "i": 153,
+            "document": 36,
+            "paragraph": 0,
+            "text": "Crispy"
+        },
+        {
+            "i": 154,
+            "document": 36,
+            "paragraph": 0,
+            "text": "shrimp"
+        },
+        {
+            "i": 155,
+            "document": 36,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 156,
+            "document": 36,
+            "paragraph": 0,
+            "text": "amazing."
+        },
+        {
+            "i": 157,
+            "document": 37,
+            "paragraph": 0,
+            "text": "Can't"
+        },
+        {
+            "i": 158,
+            "document": 37,
+            "paragraph": 0,
+            "text": "beat"
+        },
+        {
+            "i": 159,
+            "document": 37,
+            "paragraph": 0,
+            "text": "their"
+        },
+        {
+            "i": 160,
+            "document": 37,
+            "paragraph": 0,
+            "text": "steaks!"
+        },
+        {
+            "i": 161,
+            "document": 38,
+            "paragraph": 0,
+            "text": "Experience:"
+        },
+        {
+            "i": 162,
+            "document": 38,
+            "paragraph": 0,
+            "text": "Fresh"
+        },
+        {
+            "i": 163,
+            "document": 38,
+            "paragraph": 0,
+            "text": "oysters"
+        },
+        {
+            "i": 164,
+            "document": 38,
+            "paragraph": 0,
+            "text": "to"
+        },
+        {
+            "i": 165,
+            "document": 38,
+            "paragraph": 0,
+            "text": "start."
+        },
+        {
+            "i": 166,
+            "document": 39,
+            "paragraph": 0,
+            "text": "Our"
+        },
+        {
+            "i": 167,
+            "document": 39,
+            "paragraph": 0,
+            "text": "plates"
+        },
+        {
+            "i": 168,
+            "document": 39,
+            "paragraph": 0,
+            "text": "came"
+        },
+        {
+            "i": 169,
+            "document": 39,
+            "paragraph": 0,
+            "text": "out"
+        },
+        {
+            "i": 170,
+            "document": 39,
+            "paragraph": 0,
+            "text": "sizzling!!"
+        },
+        {
+            "i": 171,
+            "document": 40,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 172,
+            "document": 40,
+            "paragraph": 0,
+            "text": "presentation"
+        },
+        {
+            "i": 173,
+            "document": 40,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 174,
+            "document": 40,
+            "paragraph": 0,
+            "text": "incredible,"
+        },
+        {
+            "i": 175,
+            "document": 40,
+            "paragraph": 0,
+            "text": "too!"
+        },
+        {
+            "i": 176,
+            "document": 41,
+            "paragraph": 0,
+            "text": "Always"
+        },
+        {
+            "i": 177,
+            "document": 41,
+            "paragraph": 0,
+            "text": "thoroughly"
+        },
+        {
+            "i": 178,
+            "document": 41,
+            "paragraph": 0,
+            "text": "enjoy"
+        },
+        {
+            "i": 179,
+            "document": 41,
+            "paragraph": 0,
+            "text": "our"
+        },
+        {
+            "i": 180,
+            "document": 41,
+            "paragraph": 0,
+            "text": "meals!!"
+        },
+        {
+            "i": 181,
+            "document": 42,
+            "paragraph": 0,
+            "text": "My"
+        },
+        {
+            "i": 182,
+            "document": 42,
+            "paragraph": 0,
+            "text": "crab"
+        },
+        {
+            "i": 183,
+            "document": 42,
+            "paragraph": 0,
+            "text": "legs"
+        },
+        {
+            "i": 184,
+            "document": 42,
+            "paragraph": 0,
+            "text": "were"
+        },
+        {
+            "i": 185,
+            "document": 42,
+            "paragraph": 0,
+            "text": "AMAZING!"
+        },
+        {
+            "i": 186,
+            "document": 43,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 187,
+            "document": 43,
+            "paragraph": 0,
+            "text": "drink"
+        },
+        {
+            "i": 188,
+            "document": 43,
+            "paragraph": 0,
+            "text": "list"
+        },
+        {
+            "i": 189,
+            "document": 43,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 190,
+            "document": 43,
+            "paragraph": 0,
+            "text": "massive!"
+        },
+        {
+            "i": 191,
+            "document": 44,
+            "paragraph": 0,
+            "text": "Bread"
+        },
+        {
+            "i": 192,
+            "document": 44,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 193,
+            "document": 44,
+            "paragraph": 0,
+            "text": "fabulous"
+        },
+        {
+            "i": 194,
+            "document": 44,
+            "paragraph": 0,
+            "text": "as"
+        },
+        {
+            "i": 195,
+            "document": 44,
+            "paragraph": 0,
+            "text": "usual"
+        },
+        {
+            "i": 196,
+            "document": 44,
+            "paragraph": 0,
+            "text": "."
+        },
+        {
+            "i": 197,
+            "document": 45,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 198,
+            "document": 45,
+            "paragraph": 0,
+            "text": "meatballs"
+        },
+        {
+            "i": 199,
+            "document": 45,
+            "paragraph": 0,
+            "text": "are"
+        },
+        {
+            "i": 200,
+            "document": 45,
+            "paragraph": 0,
+            "text": "fantastic!"
+        },
+        {
+            "i": 201,
+            "document": 46,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 202,
+            "document": 46,
+            "paragraph": 0,
+            "text": "oysters"
+        },
+        {
+            "i": 203,
+            "document": 46,
+            "paragraph": 0,
+            "text": "are"
+        },
+        {
+            "i": 204,
+            "document": 46,
+            "paragraph": 0,
+            "text": "phenomenal!"
+        },
+        {
+            "i": 205,
+            "document": 47,
+            "paragraph": 0,
+            "text": "Really"
+        },
+        {
+            "i": 206,
+            "document": 47,
+            "paragraph": 0,
+            "text": "love"
+        },
+        {
+            "i": 207,
+            "document": 47,
+            "paragraph": 0,
+            "text": "the"
+        },
+        {
+            "i": 208,
+            "document": 47,
+            "paragraph": 0,
+            "text": "seafood"
+        },
+        {
+            "i": 209,
+            "document": 47,
+            "paragraph": 0,
+            "text": "here."
+        },
+        {
+            "i": 210,
+            "document": 48,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 211,
+            "document": 48,
+            "paragraph": 0,
+            "text": "caramel"
+        },
+        {
+            "i": 212,
+            "document": 48,
+            "paragraph": 0,
+            "text": "cake"
+        },
+        {
+            "i": 213,
+            "document": 48,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 214,
+            "document": 48,
+            "paragraph": 0,
+            "text": "amazing."
+        },
+        {
+            "i": 215,
+            "document": 49,
+            "paragraph": 0,
+            "text": "Best"
+        },
+        {
+            "i": 216,
+            "document": 49,
+            "paragraph": 0,
+            "text": "meal"
+        },
+        {
+            "i": 217,
+            "document": 49,
+            "paragraph": 0,
+            "text": "EVER!"
+        },
+        {
+            "i": 218,
+            "document": 50,
+            "paragraph": 0,
+            "text": "Good"
+        },
+        {
+            "i": 219,
+            "document": 50,
+            "paragraph": 0,
+            "text": "dessert"
+        },
+        {
+            "i": 220,
+            "document": 50,
+            "paragraph": 0,
+            "text": "menu"
+        },
+        {
+            "i": 221,
+            "document": 50,
+            "paragraph": 0,
+            "text": "too."
+        },
+        {
+            "i": 222,
+            "document": 51,
+            "paragraph": 0,
+            "text": "Really"
+        },
+        {
+            "i": 223,
+            "document": 51,
+            "paragraph": 0,
+            "text": "enjoyed"
+        },
+        {
+            "i": 224,
+            "document": 51,
+            "paragraph": 0,
+            "text": "the"
+        },
+        {
+            "i": 225,
+            "document": 51,
+            "paragraph": 0,
+            "text": "meal."
+        },
+        {
+            "i": 226,
+            "document": 52,
+            "paragraph": 0,
+            "text": "Service"
+        },
+        {
+            "i": 227,
+            "document": 52,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 228,
+            "document": 52,
+            "paragraph": 0,
+            "text": "intuitive."
+        },
+        {
+            "i": 229,
+            "document": 53,
+            "paragraph": 0,
+            "text": "Drinks"
+        },
+        {
+            "i": 230,
+            "document": 53,
+            "paragraph": 0,
+            "text": "are"
+        },
+        {
+            "i": 231,
+            "document": 53,
+            "paragraph": 0,
+            "text": "stiff"
+        },
+        {
+            "i": 232,
+            "document": 53,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 233,
+            "document": 53,
+            "paragraph": 0,
+            "text": "legit."
+        },
+        {
+            "i": 234,
+            "document": 54,
+            "paragraph": 0,
+            "text": "Very"
+        },
+        {
+            "i": 235,
+            "document": 54,
+            "paragraph": 0,
+            "text": "clean"
+        },
+        {
+            "i": 236,
+            "document": 54,
+            "paragraph": 0,
+            "text": "restaurant"
+        },
+        {
+            "i": 237,
+            "document": 54,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 238,
+            "document": 54,
+            "paragraph": 0,
+            "text": "bathroom."
+        },
+        {
+            "i": 239,
+            "document": 55,
+            "paragraph": 0,
+            "text": "Bartender"
+        },
+        {
+            "i": 240,
+            "document": 55,
+            "paragraph": 0,
+            "text": "made"
+        },
+        {
+            "i": 241,
+            "document": 55,
+            "paragraph": 0,
+            "text": "amazing"
+        },
+        {
+            "i": 242,
+            "document": 55,
+            "paragraph": 0,
+            "text": "house"
+        },
+        {
+            "i": 243,
+            "document": 55,
+            "paragraph": 0,
+            "text": "cocktails."
+        },
+        {
+            "i": 244,
+            "document": 56,
+            "paragraph": 0,
+            "text": "Drinks"
+        },
+        {
+            "i": 245,
+            "document": 56,
+            "paragraph": 0,
+            "text": "were"
+        },
+        {
+            "i": 246,
+            "document": 56,
+            "paragraph": 0,
+            "text": "on"
+        },
+        {
+            "i": 247,
+            "document": 56,
+            "paragraph": 0,
+            "text": "the"
+        },
+        {
+            "i": 248,
+            "document": 56,
+            "paragraph": 0,
+            "text": "money."
+        },
+        {
+            "i": 249,
+            "document": 57,
+            "paragraph": 0,
+            "text": "No"
+        },
+        {
+            "i": 250,
+            "document": 57,
+            "paragraph": 0,
+            "text": "snooty"
+        },
+        {
+            "i": 251,
+            "document": 57,
+            "paragraph": 0,
+            "text": "service"
+        },
+        {
+            "i": 252,
+            "document": 57,
+            "paragraph": 0,
+            "text": "either."
+        }
+    ],
+    "mentions": [
+        {
+            "start": 0,
+            "end": 12,
+            "m_id": 0,
+            "clustId": [
+                "0-12"
+            ]
+        },
+        {
+            "start": 13,
+            "end": 17,
+            "m_id": 1
+        },
+        {
+            "start": 18,
+            "end": 22,
+            "m_id": 2
+        },
+        {
+            "start": 23,
+            "end": 26,
+            "m_id": 3
+        },
+        {
+            "start": 27,
+            "end": 30,
+            "m_id": 4
+        },
+        {
+            "start": 31,
+            "end": 34,
+            "m_id": 5
+        },
+        {
+            "start": 35,
+            "end": 37,
+            "m_id": 6
+        },
+        {
+            "start": 38,
+            "end": 40,
+            "m_id": 7
+        },
+        {
+            "start": 41,
+            "end": 44,
+            "m_id": 8
+        },
+        {
+            "start": 45,
+            "end": 49,
+            "m_id": 9
+        },
+        {
+            "start": 50,
+            "end": 52,
+            "m_id": 10
+        },
+        {
+            "start": 53,
+            "end": 56,
+            "m_id": 11
+        },
+        {
+            "start": 57,
+            "end": 61,
+            "m_id": 12
+        },
+        {
+            "start": 62,
+            "end": 66,
+            "m_id": 13
+        },
+        {
+            "start": 67,
+            "end": 69,
+            "m_id": 14
+        },
+        {
+            "start": 70,
+            "end": 74,
+            "m_id": 15
+        },
+        {
+            "start": 75,
+            "end": 78,
+            "m_id": 16
+        },
+        {
+            "start": 79,
+            "end": 81,
+            "m_id": 17
+        },
+        {
+            "start": 82,
+            "end": 85,
+            "m_id": 18
+        },
+        {
+            "start": 86,
+            "end": 89,
+            "m_id": 19
+        },
+        {
+            "start": 90,
+            "end": 93,
+            "m_id": 20
+        },
+        {
+            "start": 94,
+            "end": 96,
+            "m_id": 21
+        },
+        {
+            "start": 97,
+            "end": 99,
+            "m_id": 22
+        },
+        {
+            "start": 100,
+            "end": 104,
+            "m_id": 23
+        },
+        {
+            "start": 105,
+            "end": 109,
+            "m_id": 24
+        },
+        {
+            "start": 110,
+            "end": 112,
+            "m_id": 25
+        },
+        {
+            "start": 113,
+            "end": 117,
+            "m_id": 26
+        },
+        {
+            "start": 118,
+            "end": 120,
+            "m_id": 27
+        },
+        {
+            "start": 121,
+            "end": 123,
+            "m_id": 28
+        },
+        {
+            "start": 124,
+            "end": 128,
+            "m_id": 29
+        },
+        {
+            "start": 129,
+            "end": 133,
+            "m_id": 30
+        },
+        {
+            "start": 134,
+            "end": 136,
+            "m_id": 31
+        },
+        {
+            "start": 137,
+            "end": 140,
+            "m_id": 32
+        },
+        {
+            "start": 141,
+            "end": 144,
+            "m_id": 33
+        },
+        {
+            "start": 145,
+            "end": 147,
+            "m_id": 34
+        },
+        {
+            "start": 148,
+            "end": 152,
+            "m_id": 35
+        },
+        {
+            "start": 153,
+            "end": 156,
+            "m_id": 36
+        },
+        {
+            "start": 157,
+            "end": 160,
+            "m_id": 37
+        },
+        {
+            "start": 161,
+            "end": 165,
+            "m_id": 38
+        },
+        {
+            "start": 166,
+            "end": 170,
+            "m_id": 39
+        },
+        {
+            "start": 171,
+            "end": 175,
+            "m_id": 40
+        },
+        {
+            "start": 176,
+            "end": 180,
+            "m_id": 41
+        },
+        {
+            "start": 181,
+            "end": 185,
+            "m_id": 42
+        },
+        {
+            "start": 186,
+            "end": 190,
+            "m_id": 43
+        },
+        {
+            "start": 191,
+            "end": 196,
+            "m_id": 44
+        },
+        {
+            "start": 197,
+            "end": 200,
+            "m_id": 45
+        },
+        {
+            "start": 201,
+            "end": 204,
+            "m_id": 46
+        },
+        {
+            "start": 205,
+            "end": 209,
+            "m_id": 47
+        },
+        {
+            "start": 210,
+            "end": 214,
+            "m_id": 48
+        },
+        {
+            "start": 215,
+            "end": 217,
+            "m_id": 49
+        },
+        {
+            "start": 218,
+            "end": 221,
+            "m_id": 50
+        },
+        {
+            "start": 222,
+            "end": 225,
+            "m_id": 51
+        },
+        {
+            "start": 226,
+            "end": 228,
+            "m_id": 52
+        },
+        {
+            "start": 229,
+            "end": 233,
+            "m_id": 53
+        },
+        {
+            "start": 234,
+            "end": 238,
+            "m_id": 54
+        },
+        {
+            "start": 239,
+            "end": 243,
+            "m_id": 55
+        },
+        {
+            "start": 244,
+            "end": 248,
+            "m_id": 56
+        },
+        {
+            "start": 249,
+            "end": 252,
+            "m_id": 57
+        }
+    ],
+    "selectedCluster": "0-12",
+    "hierarchy": true,
+    "id": "ukCTLs6T8LY1eUBXiAlmCg_pos",
+    "description": "Steak 44",
+    "local": true
+}

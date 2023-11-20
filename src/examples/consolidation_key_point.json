@@ -1,0 +1,2757 @@
+{
+    "id": "ukCTLs6T8LY1eUBXiAlmCg_pos",
+    "reassignable": true,
+    "hierarchy": true,
+    "local": true,
+    "showHypernym": false,
+    "done": false,
+    "mode": "reviewer",
+    "selectedCluster": "0-12",
+    "tokens": [
+        {
+            "i": 0,
+            "document": 0,
+            "paragraph": 0,
+            "text": "ZZZ"
+        },
+        {
+            "i": 1,
+            "document": 0,
+            "paragraph": 0,
+            "text": "\u2013"
+        },
+        {
+            "i": 2,
+            "document": 0,
+            "paragraph": 0,
+            "text": "No"
+        },
+        {
+            "i": 3,
+            "document": 0,
+            "paragraph": 0,
+            "text": "clear"
+        },
+        {
+            "i": 4,
+            "document": 0,
+            "paragraph": 0,
+            "text": "stance,"
+        },
+        {
+            "i": 5,
+            "document": 0,
+            "paragraph": 0,
+            "text": "Multiple"
+        },
+        {
+            "i": 6,
+            "document": 0,
+            "paragraph": 0,
+            "text": "ideas,"
+        },
+        {
+            "i": 7,
+            "document": 0,
+            "paragraph": 0,
+            "text": "Wrong"
+        },
+        {
+            "i": 8,
+            "document": 0,
+            "paragraph": 0,
+            "text": "polarity,"
+        },
+        {
+            "i": 9,
+            "document": 0,
+            "paragraph": 0,
+            "text": "Unclear"
+        },
+        {
+            "i": 10,
+            "document": 0,
+            "paragraph": 0,
+            "text": "or"
+        },
+        {
+            "i": 11,
+            "document": 0,
+            "paragraph": 0,
+            "text": "not"
+        },
+        {
+            "i": 12,
+            "document": 0,
+            "paragraph": 0,
+            "text": "self-contained"
+        },
+        {
+            "i": 13,
+            "document": 1,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 14,
+            "document": 1,
+            "paragraph": 0,
+            "text": "food"
+        },
+        {
+            "i": 15,
+            "document": 1,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 16,
+            "document": 1,
+            "paragraph": 0,
+            "text": "absolutely"
+        },
+        {
+            "i": 17,
+            "document": 1,
+            "paragraph": 0,
+            "text": "delicious."
+        },
+        {
+            "i": 18,
+            "document": 2,
+            "paragraph": 0,
+            "text": "Great"
+        },
+        {
+            "i": 19,
+            "document": 2,
+            "paragraph": 0,
+            "text": "food"
+        },
+        {
+            "i": 20,
+            "document": 2,
+            "paragraph": 0,
+            "text": "too."
+        },
+        {
+            "i": 21,
+            "document": 3,
+            "paragraph": 0,
+            "text": "Amazing"
+        },
+        {
+            "i": 22,
+            "document": 3,
+            "paragraph": 0,
+            "text": "quality"
+        },
+        {
+            "i": 23,
+            "document": 3,
+            "paragraph": 0,
+            "text": "food."
+        },
+        {
+            "i": 24,
+            "document": 4,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 25,
+            "document": 4,
+            "paragraph": 0,
+            "text": "food"
+        },
+        {
+            "i": 26,
+            "document": 4,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 27,
+            "document": 4,
+            "paragraph": 0,
+            "text": "well"
+        },
+        {
+            "i": 28,
+            "document": 4,
+            "paragraph": 0,
+            "text": "prepared."
+        },
+        {
+            "i": 29,
+            "document": 5,
+            "paragraph": 0,
+            "text": "We"
+        },
+        {
+            "i": 30,
+            "document": 5,
+            "paragraph": 0,
+            "text": "love"
+        },
+        {
+            "i": 31,
+            "document": 5,
+            "paragraph": 0,
+            "text": "the"
+        },
+        {
+            "i": 32,
+            "document": 5,
+            "paragraph": 0,
+            "text": "food"
+        },
+        {
+            "i": 33,
+            "document": 5,
+            "paragraph": 0,
+            "text": "here!"
+        },
+        {
+            "i": 34,
+            "document": 6,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 35,
+            "document": 6,
+            "paragraph": 0,
+            "text": "food"
+        },
+        {
+            "i": 36,
+            "document": 6,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 37,
+            "document": 6,
+            "paragraph": 0,
+            "text": "outrageous."
+        },
+        {
+            "i": 38,
+            "document": 7,
+            "paragraph": 0,
+            "text": "Always"
+        },
+        {
+            "i": 39,
+            "document": 7,
+            "paragraph": 0,
+            "text": "thoroughly"
+        },
+        {
+            "i": 40,
+            "document": 7,
+            "paragraph": 0,
+            "text": "enjoy"
+        },
+        {
+            "i": 41,
+            "document": 7,
+            "paragraph": 0,
+            "text": "our"
+        },
+        {
+            "i": 42,
+            "document": 7,
+            "paragraph": 0,
+            "text": "meals!!"
+        },
+        {
+            "i": 43,
+            "document": 8,
+            "paragraph": 0,
+            "text": "Best"
+        },
+        {
+            "i": 44,
+            "document": 8,
+            "paragraph": 0,
+            "text": "meal"
+        },
+        {
+            "i": 45,
+            "document": 8,
+            "paragraph": 0,
+            "text": "EVER!"
+        },
+        {
+            "i": 46,
+            "document": 9,
+            "paragraph": 0,
+            "text": "Really"
+        },
+        {
+            "i": 47,
+            "document": 9,
+            "paragraph": 0,
+            "text": "enjoyed"
+        },
+        {
+            "i": 48,
+            "document": 9,
+            "paragraph": 0,
+            "text": "the"
+        },
+        {
+            "i": 49,
+            "document": 9,
+            "paragraph": 0,
+            "text": "meal."
+        },
+        {
+            "i": 50,
+            "document": 10,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 51,
+            "document": 10,
+            "paragraph": 0,
+            "text": "steak"
+        },
+        {
+            "i": 52,
+            "document": 10,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 53,
+            "document": 10,
+            "paragraph": 0,
+            "text": "amazing."
+        },
+        {
+            "i": 54,
+            "document": 11,
+            "paragraph": 0,
+            "text": "Steaks"
+        },
+        {
+            "i": 55,
+            "document": 11,
+            "paragraph": 0,
+            "text": "are"
+        },
+        {
+            "i": 56,
+            "document": 11,
+            "paragraph": 0,
+            "text": "consistently"
+        },
+        {
+            "i": 57,
+            "document": 11,
+            "paragraph": 0,
+            "text": "perfect."
+        },
+        {
+            "i": 58,
+            "document": 12,
+            "paragraph": 0,
+            "text": "Best"
+        },
+        {
+            "i": 59,
+            "document": 12,
+            "paragraph": 0,
+            "text": "steak"
+        },
+        {
+            "i": 60,
+            "document": 12,
+            "paragraph": 0,
+            "text": "ever!"
+        },
+        {
+            "i": 61,
+            "document": 13,
+            "paragraph": 0,
+            "text": "Can't"
+        },
+        {
+            "i": 62,
+            "document": 13,
+            "paragraph": 0,
+            "text": "beat"
+        },
+        {
+            "i": 63,
+            "document": 13,
+            "paragraph": 0,
+            "text": "their"
+        },
+        {
+            "i": 64,
+            "document": 13,
+            "paragraph": 0,
+            "text": "steaks!"
+        },
+        {
+            "i": 65,
+            "document": 14,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 66,
+            "document": 14,
+            "paragraph": 0,
+            "text": "ambience"
+        },
+        {
+            "i": 67,
+            "document": 14,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 68,
+            "document": 14,
+            "paragraph": 0,
+            "text": "wonderful."
+        },
+        {
+            "i": 69,
+            "document": 15,
+            "paragraph": 0,
+            "text": "Great"
+        },
+        {
+            "i": 70,
+            "document": 15,
+            "paragraph": 0,
+            "text": "lively"
+        },
+        {
+            "i": 71,
+            "document": 15,
+            "paragraph": 0,
+            "text": "atmosphere!"
+        },
+        {
+            "i": 72,
+            "document": 16,
+            "paragraph": 0,
+            "text": "Modern"
+        },
+        {
+            "i": 73,
+            "document": 16,
+            "paragraph": 0,
+            "text": "cool"
+        },
+        {
+            "i": 74,
+            "document": 16,
+            "paragraph": 0,
+            "text": "atmosphere."
+        },
+        {
+            "i": 75,
+            "document": 17,
+            "paragraph": 0,
+            "text": "Staff"
+        },
+        {
+            "i": 76,
+            "document": 17,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 77,
+            "document": 17,
+            "paragraph": 0,
+            "text": "top"
+        },
+        {
+            "i": 78,
+            "document": 17,
+            "paragraph": 0,
+            "text": "notch."
+        },
+        {
+            "i": 79,
+            "document": 18,
+            "paragraph": 0,
+            "text": "Love"
+        },
+        {
+            "i": 80,
+            "document": 18,
+            "paragraph": 0,
+            "text": "the"
+        },
+        {
+            "i": 81,
+            "document": 18,
+            "paragraph": 0,
+            "text": "staff."
+        },
+        {
+            "i": 82,
+            "document": 19,
+            "paragraph": 0,
+            "text": "Friendly"
+        },
+        {
+            "i": 83,
+            "document": 19,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 84,
+            "document": 19,
+            "paragraph": 0,
+            "text": "quick"
+        },
+        {
+            "i": 85,
+            "document": 19,
+            "paragraph": 0,
+            "text": "service."
+        },
+        {
+            "i": 86,
+            "document": 20,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 87,
+            "document": 20,
+            "paragraph": 0,
+            "text": "side"
+        },
+        {
+            "i": 88,
+            "document": 20,
+            "paragraph": 0,
+            "text": "dishes"
+        },
+        {
+            "i": 89,
+            "document": 20,
+            "paragraph": 0,
+            "text": "were"
+        },
+        {
+            "i": 90,
+            "document": 20,
+            "paragraph": 0,
+            "text": "amazing."
+        },
+        {
+            "i": 91,
+            "document": 21,
+            "paragraph": 0,
+            "text": "Very"
+        },
+        {
+            "i": 92,
+            "document": 21,
+            "paragraph": 0,
+            "text": "attentive"
+        },
+        {
+            "i": 93,
+            "document": 21,
+            "paragraph": 0,
+            "text": "staff."
+        },
+        {
+            "i": 94,
+            "document": 22,
+            "paragraph": 0,
+            "text": "Great"
+        },
+        {
+            "i": 95,
+            "document": 22,
+            "paragraph": 0,
+            "text": "service"
+        },
+        {
+            "i": 96,
+            "document": 22,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 97,
+            "document": 22,
+            "paragraph": 0,
+            "text": "knowledgeable"
+        },
+        {
+            "i": 98,
+            "document": 22,
+            "paragraph": 0,
+            "text": "staff."
+        },
+        {
+            "i": 99,
+            "document": 23,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 100,
+            "document": 23,
+            "paragraph": 0,
+            "text": "seafood"
+        },
+        {
+            "i": 101,
+            "document": 23,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 102,
+            "document": 23,
+            "paragraph": 0,
+            "text": "perfect."
+        },
+        {
+            "i": 103,
+            "document": 24,
+            "paragraph": 0,
+            "text": "Really"
+        },
+        {
+            "i": 104,
+            "document": 24,
+            "paragraph": 0,
+            "text": "love"
+        },
+        {
+            "i": 105,
+            "document": 24,
+            "paragraph": 0,
+            "text": "the"
+        },
+        {
+            "i": 106,
+            "document": 24,
+            "paragraph": 0,
+            "text": "seafood"
+        },
+        {
+            "i": 107,
+            "document": 24,
+            "paragraph": 0,
+            "text": "here."
+        },
+        {
+            "i": 108,
+            "document": 25,
+            "paragraph": 0,
+            "text": "Filet"
+        },
+        {
+            "i": 109,
+            "document": 25,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 110,
+            "document": 25,
+            "paragraph": 0,
+            "text": "cooked"
+        },
+        {
+            "i": 111,
+            "document": 25,
+            "paragraph": 0,
+            "text": "precisely."
+        },
+        {
+            "i": 112,
+            "document": 26,
+            "paragraph": 0,
+            "text": "Waiter-very"
+        },
+        {
+            "i": 113,
+            "document": 26,
+            "paragraph": 0,
+            "text": "personable,"
+        },
+        {
+            "i": 114,
+            "document": 26,
+            "paragraph": 0,
+            "text": "kind,"
+        },
+        {
+            "i": 115,
+            "document": 26,
+            "paragraph": 0,
+            "text": "informative."
+        },
+        {
+            "i": 116,
+            "document": 27,
+            "paragraph": 0,
+            "text": "Our"
+        },
+        {
+            "i": 117,
+            "document": 27,
+            "paragraph": 0,
+            "text": "waiter"
+        },
+        {
+            "i": 118,
+            "document": 27,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 119,
+            "document": 27,
+            "paragraph": 0,
+            "text": "awesome."
+        },
+        {
+            "i": 120,
+            "document": 28,
+            "paragraph": 0,
+            "text": "Waitstaff"
+        },
+        {
+            "i": 121,
+            "document": 28,
+            "paragraph": 0,
+            "text": "incredibly"
+        },
+        {
+            "i": 122,
+            "document": 28,
+            "paragraph": 0,
+            "text": "professional."
+        },
+        {
+            "i": 123,
+            "document": 29,
+            "paragraph": 0,
+            "text": "Staff"
+        },
+        {
+            "i": 124,
+            "document": 29,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 125,
+            "document": 29,
+            "paragraph": 0,
+            "text": "polite"
+        },
+        {
+            "i": 126,
+            "document": 29,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 127,
+            "document": 29,
+            "paragraph": 0,
+            "text": "genuine."
+        },
+        {
+            "i": 128,
+            "document": 30,
+            "paragraph": 0,
+            "text": "Staff"
+        },
+        {
+            "i": 129,
+            "document": 30,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 130,
+            "document": 30,
+            "paragraph": 0,
+            "text": "also"
+        },
+        {
+            "i": 131,
+            "document": 30,
+            "paragraph": 0,
+            "text": "very"
+        },
+        {
+            "i": 132,
+            "document": 30,
+            "paragraph": 0,
+            "text": "helpful."
+        },
+        {
+            "i": 133,
+            "document": 31,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 134,
+            "document": 31,
+            "paragraph": 0,
+            "text": "dinner"
+        },
+        {
+            "i": 135,
+            "document": 31,
+            "paragraph": 0,
+            "text": "menu"
+        },
+        {
+            "i": 136,
+            "document": 31,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 137,
+            "document": 31,
+            "paragraph": 0,
+            "text": "fabulous."
+        },
+        {
+            "i": 138,
+            "document": 32,
+            "paragraph": 0,
+            "text": "Dessert"
+        },
+        {
+            "i": 139,
+            "document": 32,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 140,
+            "document": 32,
+            "paragraph": 0,
+            "text": "outstanding!"
+        },
+        {
+            "i": 141,
+            "document": 33,
+            "paragraph": 0,
+            "text": "Good"
+        },
+        {
+            "i": 142,
+            "document": 33,
+            "paragraph": 0,
+            "text": "dessert"
+        },
+        {
+            "i": 143,
+            "document": 33,
+            "paragraph": 0,
+            "text": "menu"
+        },
+        {
+            "i": 144,
+            "document": 33,
+            "paragraph": 0,
+            "text": "too."
+        },
+        {
+            "i": 145,
+            "document": 34,
+            "paragraph": 0,
+            "text": "Drinks"
+        },
+        {
+            "i": 146,
+            "document": 34,
+            "paragraph": 0,
+            "text": "were"
+        },
+        {
+            "i": 147,
+            "document": 34,
+            "paragraph": 0,
+            "text": "great."
+        },
+        {
+            "i": 148,
+            "document": 35,
+            "paragraph": 0,
+            "text": "Drinks"
+        },
+        {
+            "i": 149,
+            "document": 35,
+            "paragraph": 0,
+            "text": "were"
+        },
+        {
+            "i": 150,
+            "document": 35,
+            "paragraph": 0,
+            "text": "on"
+        },
+        {
+            "i": 151,
+            "document": 35,
+            "paragraph": 0,
+            "text": "the"
+        },
+        {
+            "i": 152,
+            "document": 35,
+            "paragraph": 0,
+            "text": "money."
+        },
+        {
+            "i": 153,
+            "document": 36,
+            "paragraph": 0,
+            "text": "Mac"
+        },
+        {
+            "i": 154,
+            "document": 36,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 155,
+            "document": 36,
+            "paragraph": 0,
+            "text": "cheese"
+        },
+        {
+            "i": 156,
+            "document": 36,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 157,
+            "document": 36,
+            "paragraph": 0,
+            "text": "perfect."
+        },
+        {
+            "i": 158,
+            "document": 37,
+            "paragraph": 0,
+            "text": "Wine"
+        },
+        {
+            "i": 159,
+            "document": 37,
+            "paragraph": 0,
+            "text": "selection"
+        },
+        {
+            "i": 160,
+            "document": 37,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 161,
+            "document": 37,
+            "paragraph": 0,
+            "text": "very"
+        },
+        {
+            "i": 162,
+            "document": 37,
+            "paragraph": 0,
+            "text": "good."
+        },
+        {
+            "i": 163,
+            "document": 38,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 164,
+            "document": 38,
+            "paragraph": 0,
+            "text": "wagyu"
+        },
+        {
+            "i": 165,
+            "document": 38,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 166,
+            "document": 38,
+            "paragraph": 0,
+            "text": "phenomenal"
+        },
+        {
+            "i": 167,
+            "document": 39,
+            "paragraph": 0,
+            "text": "Crispy"
+        },
+        {
+            "i": 168,
+            "document": 39,
+            "paragraph": 0,
+            "text": "shrimp"
+        },
+        {
+            "i": 169,
+            "document": 39,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 170,
+            "document": 39,
+            "paragraph": 0,
+            "text": "amazing."
+        },
+        {
+            "i": 171,
+            "document": 40,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 172,
+            "document": 40,
+            "paragraph": 0,
+            "text": "presentation"
+        },
+        {
+            "i": 173,
+            "document": 40,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 174,
+            "document": 40,
+            "paragraph": 0,
+            "text": "incredible,"
+        },
+        {
+            "i": 175,
+            "document": 40,
+            "paragraph": 0,
+            "text": "too!"
+        },
+        {
+            "i": 176,
+            "document": 41,
+            "paragraph": 0,
+            "text": "My"
+        },
+        {
+            "i": 177,
+            "document": 41,
+            "paragraph": 0,
+            "text": "crab"
+        },
+        {
+            "i": 178,
+            "document": 41,
+            "paragraph": 0,
+            "text": "legs"
+        },
+        {
+            "i": 179,
+            "document": 41,
+            "paragraph": 0,
+            "text": "were"
+        },
+        {
+            "i": 180,
+            "document": 41,
+            "paragraph": 0,
+            "text": "AMAZING!"
+        },
+        {
+            "i": 181,
+            "document": 42,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 182,
+            "document": 42,
+            "paragraph": 0,
+            "text": "drink"
+        },
+        {
+            "i": 183,
+            "document": 42,
+            "paragraph": 0,
+            "text": "list"
+        },
+        {
+            "i": 184,
+            "document": 42,
+            "paragraph": 0,
+            "text": "is"
+        },
+        {
+            "i": 185,
+            "document": 42,
+            "paragraph": 0,
+            "text": "massive!"
+        },
+        {
+            "i": 186,
+            "document": 43,
+            "paragraph": 0,
+            "text": "Bread"
+        },
+        {
+            "i": 187,
+            "document": 43,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 188,
+            "document": 43,
+            "paragraph": 0,
+            "text": "fabulous"
+        },
+        {
+            "i": 189,
+            "document": 43,
+            "paragraph": 0,
+            "text": "as"
+        },
+        {
+            "i": 190,
+            "document": 43,
+            "paragraph": 0,
+            "text": "usual"
+        },
+        {
+            "i": 191,
+            "document": 43,
+            "paragraph": 0,
+            "text": "."
+        },
+        {
+            "i": 192,
+            "document": 44,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 193,
+            "document": 44,
+            "paragraph": 0,
+            "text": "meatballs"
+        },
+        {
+            "i": 194,
+            "document": 44,
+            "paragraph": 0,
+            "text": "are"
+        },
+        {
+            "i": 195,
+            "document": 44,
+            "paragraph": 0,
+            "text": "fantastic!"
+        },
+        {
+            "i": 196,
+            "document": 45,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 197,
+            "document": 45,
+            "paragraph": 0,
+            "text": "oysters"
+        },
+        {
+            "i": 198,
+            "document": 45,
+            "paragraph": 0,
+            "text": "are"
+        },
+        {
+            "i": 199,
+            "document": 45,
+            "paragraph": 0,
+            "text": "phenomenal!"
+        },
+        {
+            "i": 200,
+            "document": 46,
+            "paragraph": 0,
+            "text": "The"
+        },
+        {
+            "i": 201,
+            "document": 46,
+            "paragraph": 0,
+            "text": "caramel"
+        },
+        {
+            "i": 202,
+            "document": 46,
+            "paragraph": 0,
+            "text": "cake"
+        },
+        {
+            "i": 203,
+            "document": 46,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 204,
+            "document": 46,
+            "paragraph": 0,
+            "text": "amazing."
+        },
+        {
+            "i": 205,
+            "document": 47,
+            "paragraph": 0,
+            "text": "Service"
+        },
+        {
+            "i": 206,
+            "document": 47,
+            "paragraph": 0,
+            "text": "was"
+        },
+        {
+            "i": 207,
+            "document": 47,
+            "paragraph": 0,
+            "text": "intuitive."
+        },
+        {
+            "i": 208,
+            "document": 48,
+            "paragraph": 0,
+            "text": "Drinks"
+        },
+        {
+            "i": 209,
+            "document": 48,
+            "paragraph": 0,
+            "text": "are"
+        },
+        {
+            "i": 210,
+            "document": 48,
+            "paragraph": 0,
+            "text": "stiff"
+        },
+        {
+            "i": 211,
+            "document": 48,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 212,
+            "document": 48,
+            "paragraph": 0,
+            "text": "legit."
+        },
+        {
+            "i": 213,
+            "document": 49,
+            "paragraph": 0,
+            "text": "Very"
+        },
+        {
+            "i": 214,
+            "document": 49,
+            "paragraph": 0,
+            "text": "clean"
+        },
+        {
+            "i": 215,
+            "document": 49,
+            "paragraph": 0,
+            "text": "restaurant"
+        },
+        {
+            "i": 216,
+            "document": 49,
+            "paragraph": 0,
+            "text": "and"
+        },
+        {
+            "i": 217,
+            "document": 49,
+            "paragraph": 0,
+            "text": "bathroom."
+        },
+        {
+            "i": 218,
+            "document": 50,
+            "paragraph": 0,
+            "text": "Bartender"
+        },
+        {
+            "i": 219,
+            "document": 50,
+            "paragraph": 0,
+            "text": "made"
+        },
+        {
+            "i": 220,
+            "document": 50,
+            "paragraph": 0,
+            "text": "amazing"
+        },
+        {
+            "i": 221,
+            "document": 50,
+            "paragraph": 0,
+            "text": "house"
+        },
+        {
+            "i": 222,
+            "document": 50,
+            "paragraph": 0,
+            "text": "cocktails."
+        },
+        {
+            "i": 223,
+            "document": 51,
+            "paragraph": 0,
+            "text": "No"
+        },
+        {
+            "i": 224,
+            "document": 51,
+            "paragraph": 0,
+            "text": "snooty"
+        },
+        {
+            "i": 225,
+            "document": 51,
+            "paragraph": 0,
+            "text": "service"
+        },
+        {
+            "i": 226,
+            "document": 51,
+            "paragraph": 0,
+            "text": "either."
+        }
+    ],
+    "mentions": [
+        {
+            "start": 0,
+            "end": 12,
+            "m_id": 0,
+            "clustId": [
+                "0-12",
+                "0-12"
+            ]
+        },
+        {
+            "start": 13,
+            "end": 17,
+            "m_id": 1,
+            "clustId": [
+                "13-17",
+                "13-17"
+            ]
+        },
+        {
+            "start": 18,
+            "end": 20,
+            "m_id": 2,
+            "clustId": [
+                "13-17",
+                "13-17"
+            ]
+        },
+        {
+            "start": 21,
+            "end": 23,
+            "m_id": 3,
+            "clustId": [
+                "13-17",
+                "13-17"
+            ]
+        },
+        {
+            "start": 24,
+            "end": 28,
+            "m_id": 4,
+            "clustId": [
+                "24-28",
+                "24-28"
+            ]
+        },
+        {
+            "start": 29,
+            "end": 33,
+            "m_id": 5,
+            "clustId": [
+                "13-17",
+                "13-17"
+            ]
+        },
+        {
+            "start": 34,
+            "end": 37,
+            "m_id": 6,
+            "clustId": [
+                "13-17",
+                "13-17"
+            ]
+        },
+        {
+            "start": 38,
+            "end": 42,
+            "m_id": 7,
+            "clustId": [
+                "46-49",
+                "38-42"
+            ]
+        },
+        {
+            "start": 43,
+            "end": 45,
+            "m_id": 8,
+            "clustId": [
+                "46-49",
+                "38-42"
+            ]
+        },
+        {
+            "start": 46,
+            "end": 49,
+            "m_id": 9,
+            "clustId": [
+                "46-49",
+                "38-42"
+            ]
+        },
+        {
+            "start": 50,
+            "end": 53,
+            "m_id": 10,
+            "clustId": [
+                "54-57",
+                "50-53"
+            ]
+        },
+        {
+            "start": 54,
+            "end": 57,
+            "m_id": 11,
+            "clustId": [
+                "54-57",
+                "54-57"
+            ]
+        },
+        {
+            "start": 58,
+            "end": 60,
+            "m_id": 12,
+            "clustId": [
+                "54-57",
+                "50-53"
+            ]
+        },
+        {
+            "start": 61,
+            "end": 64,
+            "m_id": 13,
+            "clustId": [
+                "54-57",
+                "50-53"
+            ]
+        },
+        {
+            "start": 65,
+            "end": 68,
+            "m_id": 14,
+            "clustId": [
+                "65-68",
+                "65-68"
+            ]
+        },
+        {
+            "start": 69,
+            "end": 71,
+            "m_id": 15,
+            "clustId": [
+                "65-68",
+                "69-71"
+            ]
+        },
+        {
+            "start": 72,
+            "end": 74,
+            "m_id": 16,
+            "clustId": [
+                "65-68",
+                "72-74"
+            ]
+        },
+        {
+            "start": 75,
+            "end": 78,
+            "m_id": 17,
+            "clustId": [
+                "75-78",
+                "75-78"
+            ]
+        },
+        {
+            "start": 79,
+            "end": 81,
+            "m_id": 18,
+            "clustId": [
+                "75-78",
+                "75-78"
+            ]
+        },
+        {
+            "start": 82,
+            "end": 85,
+            "m_id": 19,
+            "clustId": [
+                "82-85",
+                "82-85"
+            ]
+        },
+        {
+            "start": 86,
+            "end": 90,
+            "m_id": 20,
+            "clustId": [
+                "86-90",
+                "86-90"
+            ]
+        },
+        {
+            "start": 91,
+            "end": 93,
+            "m_id": 21,
+            "clustId": [
+                "75-78",
+                "91-93"
+            ]
+        },
+        {
+            "start": 94,
+            "end": 98,
+            "m_id": 22,
+            "clustId": [
+                "94-98",
+                "94-98"
+            ]
+        },
+        {
+            "start": 99,
+            "end": 102,
+            "m_id": 23,
+            "clustId": [
+                "99-102",
+                "99-102"
+            ]
+        },
+        {
+            "start": 103,
+            "end": 107,
+            "m_id": 24,
+            "clustId": [
+                "99-102",
+                "99-102"
+            ]
+        },
+        {
+            "start": 108,
+            "end": 111,
+            "m_id": 25,
+            "clustId": [
+                "108-111",
+                "108-111"
+            ]
+        },
+        {
+            "start": 112,
+            "end": 115,
+            "m_id": 26,
+            "clustId": [
+                "112-115",
+                "112-115"
+            ]
+        },
+        {
+            "start": 116,
+            "end": 119,
+            "m_id": 27,
+            "clustId": [
+                "112-115",
+                "116-119"
+            ]
+        },
+        {
+            "start": 120,
+            "end": 122,
+            "m_id": 28,
+            "clustId": [
+                "112-115",
+                "120-122"
+            ]
+        },
+        {
+            "start": 123,
+            "end": 127,
+            "m_id": 29,
+            "clustId": [
+                "75-78",
+                "123-127"
+            ]
+        },
+        {
+            "start": 128,
+            "end": 132,
+            "m_id": 30,
+            "clustId": [
+                "75-78",
+                "128-132"
+            ]
+        },
+        {
+            "start": 133,
+            "end": 137,
+            "m_id": 31,
+            "clustId": [
+                "133-137",
+                "133-137"
+            ]
+        },
+        {
+            "start": 138,
+            "end": 140,
+            "m_id": 32,
+            "clustId": [
+                "138-140",
+                "138-140"
+            ]
+        },
+        {
+            "start": 141,
+            "end": 144,
+            "m_id": 33,
+            "clustId": [
+                "141-144",
+                "141-144"
+            ]
+        },
+        {
+            "start": 145,
+            "end": 147,
+            "m_id": 34,
+            "clustId": [
+                "145-147",
+                "145-147"
+            ]
+        },
+        {
+            "start": 148,
+            "end": 152,
+            "m_id": 35,
+            "clustId": [
+                "145-147",
+                "145-147"
+            ]
+        },
+        {
+            "start": 153,
+            "end": 157,
+            "m_id": 36,
+            "clustId": [
+                "153-157",
+                "153-157"
+            ]
+        },
+        {
+            "start": 158,
+            "end": 162,
+            "m_id": 37,
+            "clustId": [
+                "158-162",
+                "158-162"
+            ]
+        },
+        {
+            "start": 163,
+            "end": 166,
+            "m_id": 38,
+            "clustId": [
+                "163-166",
+                "163-166"
+            ]
+        },
+        {
+            "start": 167,
+            "end": 170,
+            "m_id": 39,
+            "clustId": [
+                "167-170",
+                "167-170"
+            ]
+        },
+        {
+            "start": 171,
+            "end": 175,
+            "m_id": 40,
+            "clustId": [
+                "171-175",
+                "171-175"
+            ]
+        },
+        {
+            "start": 176,
+            "end": 180,
+            "m_id": 41,
+            "clustId": [
+                "176-180",
+                "176-180"
+            ]
+        },
+        {
+            "start": 181,
+            "end": 185,
+            "m_id": 42,
+            "clustId": [
+                "181-185",
+                "181-185"
+            ]
+        },
+        {
+            "start": 186,
+            "end": 191,
+            "m_id": 43,
+            "clustId": [
+                "186-191",
+                "186-191"
+            ]
+        },
+        {
+            "start": 192,
+            "end": 195,
+            "m_id": 44,
+            "clustId": [
+                "192-195",
+                "192-195"
+            ]
+        },
+        {
+            "start": 196,
+            "end": 199,
+            "m_id": 45,
+            "clustId": [
+                "196-199",
+                "196-199"
+            ]
+        },
+        {
+            "start": 200,
+            "end": 204,
+            "m_id": 46,
+            "clustId": [
+                "200-204",
+                "200-204"
+            ]
+        },
+        {
+            "start": 205,
+            "end": 207,
+            "m_id": 47,
+            "clustId": [
+                "205-207",
+                "91-93"
+            ]
+        },
+        {
+            "start": 208,
+            "end": 212,
+            "m_id": 48,
+            "clustId": [
+                "145-147",
+                "208-212"
+            ]
+        },
+        {
+            "start": 213,
+            "end": 217,
+            "m_id": 49,
+            "clustId": [
+                "213-217",
+                "213-217"
+            ]
+        },
+        {
+            "start": 218,
+            "end": 222,
+            "m_id": 50,
+            "clustId": [
+                "218-222",
+                "218-222"
+            ]
+        },
+        {
+            "start": 223,
+            "end": 226,
+            "m_id": 51,
+            "clustId": [
+                "223-226",
+                "223-226"
+            ]
+        }
+    ],
+    "tree": [
+        {
+            "id": 0,
+            "isLeaf": false,
+            "name": "root",
+            "originalName": "root",
+            "children": [
+                {
+                    "id": "0-12",
+                    "isLeaf": false,
+                    "text": "ZZZ \u2013 No clear stance, Multiple ideas, Wrong polarity, Unclear or not self-contained",
+                    "addTreeNodeDisabled": true,
+                    "addLeafNodeDisabled": true,
+                    "editNodeDisabled": false,
+                    "delNodeDisabled": true,
+                    "name": "ZZZ \u2013 No clear stance, Multiple ideas, Wrong polarity, Unclear or not self-contained",
+                    "originalName": "ZZZ \u2013 No clear stance, Multiple ideas, Wrong polarity, Unclear or not self-contained",
+                    "pid": 0
+                },
+                {
+                    "id": "13-17",
+                    "isLeaf": false,
+                    "text": "The food is absolutely delicious.; Great food too.; Amazing quality food.; We love the food here!; The food was outrageous.",
+                    "addTreeNodeDisabled": true,
+                    "addLeafNodeDisabled": true,
+                    "delNodeDisabled": true,
+                    "editNodeDisabled": false,
+                    "name": "The food is absolutely delicious.; Great food too.; Amazing quality food.; We love the food here!; The food was outrageous.",
+                    "originalName": "The food is absolutely delicious.; Great food too.; Amazing quality food.; We love the food here!; The food was outrageous.",
+                    "pid": 0,
+                    "children": [
+                        {
+                            "id": "133-137",
+                            "isLeaf": false,
+                            "text": "The dinner menu is fabulous.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The dinner menu is fabulous.",
+                            "originalName": "The dinner menu is fabulous.",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "192-195",
+                            "isLeaf": false,
+                            "text": "The meatballs are fantastic!",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The meatballs are fantastic!",
+                            "originalName": "The meatballs are fantastic!",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "153-157",
+                            "isLeaf": false,
+                            "text": "Mac and cheese was perfect.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Mac and cheese was perfect.",
+                            "originalName": "Mac and cheese was perfect.",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "186-191",
+                            "isLeaf": false,
+                            "text": "Bread was fabulous as usual .",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Bread was fabulous as usual .",
+                            "originalName": "Bread was fabulous as usual .",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "108-111",
+                            "isLeaf": false,
+                            "text": "Filet was cooked precisely.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Filet was cooked precisely.",
+                            "originalName": "Filet was cooked precisely.",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "99-102",
+                            "isLeaf": false,
+                            "text": "The seafood was perfect.; Really love the seafood here.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The seafood was perfect.; Really love the seafood here.",
+                            "originalName": "The seafood was perfect.; Really love the seafood here.",
+                            "pid": "13-17",
+                            "children": [
+                                {
+                                    "id": "196-199",
+                                    "isLeaf": false,
+                                    "text": "The oysters are phenomenal!",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "The oysters are phenomenal!",
+                                    "originalName": "The oysters are phenomenal!",
+                                    "pid": "99-102"
+                                },
+                                {
+                                    "id": "176-180",
+                                    "isLeaf": false,
+                                    "text": "My crab legs were AMAZING!",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "My crab legs were AMAZING!",
+                                    "originalName": "My crab legs were AMAZING!",
+                                    "pid": "99-102"
+                                },
+                                {
+                                    "id": "167-170",
+                                    "isLeaf": false,
+                                    "text": "Crispy shrimp is amazing.",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "Crispy shrimp is amazing.",
+                                    "originalName": "Crispy shrimp is amazing.",
+                                    "pid": "99-102"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "54-57",
+                            "isLeaf": false,
+                            "text": "The steak was amazing.; Steaks are consistently perfect.; Best steak ever!; Can't beat their steaks!",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The steak was amazing.; Steaks are consistently perfect.; Best steak ever!; Can't beat their steaks!",
+                            "originalName": "The steak was amazing.; Steaks are consistently perfect.; Best steak ever!; Can't beat their steaks!",
+                            "pid": "13-17",
+                            "children": [
+                                {
+                                    "id": "163-166",
+                                    "isLeaf": false,
+                                    "text": "The wagyu is phenomenal",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "The wagyu is phenomenal",
+                                    "originalName": "The wagyu is phenomenal",
+                                    "pid": "54-57"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "24-28",
+                            "isLeaf": false,
+                            "text": "The food was well prepared.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The food was well prepared.",
+                            "originalName": "The food was well prepared.",
+                            "pid": "13-17",
+                            "children": [
+                                {
+                                    "id": "171-175",
+                                    "isLeaf": false,
+                                    "text": "The presentation was incredible, too!",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "The presentation was incredible, too!",
+                                    "originalName": "The presentation was incredible, too!",
+                                    "pid": "24-28"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "86-90",
+                            "isLeaf": false,
+                            "text": "The side dishes were amazing.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The side dishes were amazing.",
+                            "originalName": "The side dishes were amazing.",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "141-144",
+                            "isLeaf": false,
+                            "text": "Good dessert menu too.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Good dessert menu too.",
+                            "originalName": "Good dessert menu too.",
+                            "pid": "13-17",
+                            "children": [
+                                {
+                                    "id": "138-140",
+                                    "isLeaf": false,
+                                    "text": "Dessert was outstanding!",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "Dessert was outstanding!",
+                                    "originalName": "Dessert was outstanding!",
+                                    "pid": "141-144"
+                                },
+                                {
+                                    "id": "200-204",
+                                    "isLeaf": false,
+                                    "text": "The caramel cake was amazing.",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "The caramel cake was amazing.",
+                                    "originalName": "The caramel cake was amazing.",
+                                    "pid": "141-144"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "46-49",
+                            "isLeaf": false,
+                            "text": "Always thoroughly enjoy our meals!!; Best meal EVER!; Really enjoyed the meal.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Always thoroughly enjoy our meals!!; Best meal EVER!; Really enjoyed the meal.",
+                            "originalName": "Always thoroughly enjoy our meals!!; Best meal EVER!; Really enjoyed the meal.",
+                            "pid": "13-17"
+                        }
+                    ]
+                },
+                {
+                    "id": "145-147",
+                    "isLeaf": false,
+                    "text": "Drinks were great.; Drinks were on the money.; Drinks are stiff and legit.",
+                    "addTreeNodeDisabled": true,
+                    "addLeafNodeDisabled": true,
+                    "delNodeDisabled": true,
+                    "editNodeDisabled": false,
+                    "name": "Drinks were great.; Drinks were on the money.; Drinks are stiff and legit.",
+                    "originalName": "Drinks were great.; Drinks were on the money.; Drinks are stiff and legit.",
+                    "pid": 0,
+                    "children": [
+                        {
+                            "id": "181-185",
+                            "isLeaf": false,
+                            "text": "The drink list is massive!",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The drink list is massive!",
+                            "originalName": "The drink list is massive!",
+                            "pid": "145-147"
+                        },
+                        {
+                            "id": "218-222",
+                            "isLeaf": false,
+                            "text": "Bartender made amazing house cocktails.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Bartender made amazing house cocktails.",
+                            "originalName": "Bartender made amazing house cocktails.",
+                            "pid": "145-147"
+                        },
+                        {
+                            "id": "158-162",
+                            "isLeaf": false,
+                            "text": "Wine selection was very good.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Wine selection was very good.",
+                            "originalName": "Wine selection was very good.",
+                            "pid": "145-147"
+                        }
+                    ]
+                },
+                {
+                    "id": "65-68",
+                    "isLeaf": false,
+                    "text": "The ambience is wonderful.; Great lively atmosphere!; Modern cool atmosphere.",
+                    "addTreeNodeDisabled": true,
+                    "addLeafNodeDisabled": true,
+                    "delNodeDisabled": true,
+                    "editNodeDisabled": false,
+                    "name": "The ambience is wonderful.; Great lively atmosphere!; Modern cool atmosphere.",
+                    "originalName": "The ambience is wonderful.; Great lively atmosphere!; Modern cool atmosphere.",
+                    "pid": 0
+                },
+                {
+                    "id": "94-98",
+                    "isLeaf": false,
+                    "text": "Great service and knowledgeable staff.",
+                    "addTreeNodeDisabled": true,
+                    "addLeafNodeDisabled": true,
+                    "delNodeDisabled": true,
+                    "editNodeDisabled": false,
+                    "name": "Great service and knowledgeable staff.",
+                    "originalName": "Great service and knowledgeable staff.",
+                    "pid": 0,
+                    "children": [
+                        {
+                            "id": "82-85",
+                            "isLeaf": false,
+                            "text": "Friendly and quick service.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Friendly and quick service.",
+                            "originalName": "Friendly and quick service.",
+                            "pid": "94-98"
+                        },
+                        {
+                            "id": "205-207",
+                            "isLeaf": false,
+                            "text": "Service was intuitive.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Service was intuitive.",
+                            "originalName": "Service was intuitive.",
+                            "pid": "94-98"
+                        },
+                        {
+                            "id": "223-226",
+                            "isLeaf": false,
+                            "text": "No snooty service either.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "No snooty service either.",
+                            "originalName": "No snooty service either.",
+                            "pid": "94-98"
+                        }
+                    ]
+                },
+                {
+                    "id": "75-78",
+                    "isLeaf": false,
+                    "text": "Staff is top notch.; Love the staff.; Very attentive staff.; Staff is polite and genuine.; Staff is also very helpful.",
+                    "addTreeNodeDisabled": true,
+                    "addLeafNodeDisabled": true,
+                    "delNodeDisabled": true,
+                    "editNodeDisabled": false,
+                    "name": "Staff is top notch.; Love the staff.; Very attentive staff.; Staff is polite and genuine.; Staff is also very helpful.",
+                    "originalName": "Staff is top notch.; Love the staff.; Very attentive staff.; Staff is polite and genuine.; Staff is also very helpful.",
+                    "pid": 0,
+                    "children": [
+                        {
+                            "id": "112-115",
+                            "isLeaf": false,
+                            "text": "Waiter-very personable, kind, informative.; Our waiter was awesome.; Waitstaff incredibly professional.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Waiter-very personable, kind, informative.; Our waiter was awesome.; Waitstaff incredibly professional.",
+                            "originalName": "Waiter-very personable, kind, informative.; Our waiter was awesome.; Waitstaff incredibly professional.",
+                            "pid": "75-78"
+                        }
+                    ]
+                },
+                {
+                    "id": "213-217",
+                    "isLeaf": false,
+                    "text": "Very clean restaurant and bathroom.",
+                    "addTreeNodeDisabled": true,
+                    "addLeafNodeDisabled": true,
+                    "delNodeDisabled": true,
+                    "editNodeDisabled": false,
+                    "name": "Very clean restaurant and bathroom.",
+                    "originalName": "Very clean restaurant and bathroom.",
+                    "pid": 0
+                }
+            ]
+        },
+        {
+            "id": 0,
+            "isLeaf": false,
+            "name": "root",
+            "originalName": "root",
+            "children": [
+                {
+                    "id": "0-12",
+                    "isLeaf": false,
+                    "text": "ZZZ \u2013 No clear stance, Multiple ideas, Wrong polarity, Unclear or not self-contained",
+                    "addTreeNodeDisabled": true,
+                    "addLeafNodeDisabled": true,
+                    "editNodeDisabled": false,
+                    "delNodeDisabled": true,
+                    "name": "ZZZ \u2013 No clear stance, Multiple ideas, Wrong polarity, Unclear or not self-contained",
+                    "originalName": "ZZZ \u2013 No clear stance, Multiple ideas, Wrong polarity, Unclear or not self-contained",
+                    "pid": 0
+                },
+                {
+                    "id": "13-17",
+                    "isLeaf": false,
+                    "text": "The food is absolutely delicious.; Great food too.; Amazing quality food.; We love the food here!; The food was outrageous.",
+                    "addTreeNodeDisabled": true,
+                    "addLeafNodeDisabled": true,
+                    "delNodeDisabled": true,
+                    "editNodeDisabled": false,
+                    "name": "The food is absolutely delicious.; Great food too.; Amazing quality food.; We love the food here!; The food was outrageous.",
+                    "originalName": "The food is absolutely delicious.; Great food too.; Amazing quality food.; We love the food here!; The food was outrageous.",
+                    "pid": 0,
+                    "children": [
+                        {
+                            "id": "50-53",
+                            "isLeaf": false,
+                            "text": "The steak was amazing.; Best steak ever!; Can't beat their steaks!",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The steak was amazing.; Best steak ever!; Can't beat their steaks!",
+                            "originalName": "The steak was amazing.; Best steak ever!; Can't beat their steaks!",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "163-166",
+                            "isLeaf": false,
+                            "text": "The wagyu is phenomenal",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The wagyu is phenomenal",
+                            "originalName": "The wagyu is phenomenal",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "192-195",
+                            "isLeaf": false,
+                            "text": "The meatballs are fantastic!",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The meatballs are fantastic!",
+                            "originalName": "The meatballs are fantastic!",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "38-42",
+                            "isLeaf": false,
+                            "text": "Always thoroughly enjoy our meals!!; Best meal EVER!; Really enjoyed the meal.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Always thoroughly enjoy our meals!!; Best meal EVER!; Really enjoyed the meal.",
+                            "originalName": "Always thoroughly enjoy our meals!!; Best meal EVER!; Really enjoyed the meal.",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "145-147",
+                            "isLeaf": false,
+                            "text": "Drinks were great.; Drinks were on the money.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Drinks were great.; Drinks were on the money.",
+                            "originalName": "Drinks were great.; Drinks were on the money.",
+                            "pid": "13-17",
+                            "children": [
+                                {
+                                    "id": "218-222",
+                                    "isLeaf": false,
+                                    "text": "Bartender made amazing house cocktails.",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "Bartender made amazing house cocktails.",
+                                    "originalName": "Bartender made amazing house cocktails.",
+                                    "pid": "145-147"
+                                },
+                                {
+                                    "id": "208-212",
+                                    "isLeaf": false,
+                                    "text": "Drinks are stiff and legit.",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "Drinks are stiff and legit.",
+                                    "originalName": "Drinks are stiff and legit.",
+                                    "pid": "145-147"
+                                },
+                                {
+                                    "id": "181-185",
+                                    "isLeaf": false,
+                                    "text": "The drink list is massive!",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "The drink list is massive!",
+                                    "originalName": "The drink list is massive!",
+                                    "pid": "145-147"
+                                },
+                                {
+                                    "id": "158-162",
+                                    "isLeaf": false,
+                                    "text": "Wine selection was very good.",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "Wine selection was very good.",
+                                    "originalName": "Wine selection was very good.",
+                                    "pid": "145-147"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "138-140",
+                            "isLeaf": false,
+                            "text": "Dessert was outstanding!",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Dessert was outstanding!",
+                            "originalName": "Dessert was outstanding!",
+                            "pid": "13-17",
+                            "children": [
+                                {
+                                    "id": "141-144",
+                                    "isLeaf": false,
+                                    "text": "Good dessert menu too.",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "Good dessert menu too.",
+                                    "originalName": "Good dessert menu too.",
+                                    "pid": "138-140"
+                                },
+                                {
+                                    "id": "200-204",
+                                    "isLeaf": false,
+                                    "text": "The caramel cake was amazing.",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "The caramel cake was amazing.",
+                                    "originalName": "The caramel cake was amazing.",
+                                    "pid": "138-140"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "133-137",
+                            "isLeaf": false,
+                            "text": "The dinner menu is fabulous.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The dinner menu is fabulous.",
+                            "originalName": "The dinner menu is fabulous.",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "186-191",
+                            "isLeaf": false,
+                            "text": "Bread was fabulous as usual .",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Bread was fabulous as usual .",
+                            "originalName": "Bread was fabulous as usual .",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "86-90",
+                            "isLeaf": false,
+                            "text": "The side dishes were amazing.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The side dishes were amazing.",
+                            "originalName": "The side dishes were amazing.",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "153-157",
+                            "isLeaf": false,
+                            "text": "Mac and cheese was perfect.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Mac and cheese was perfect.",
+                            "originalName": "Mac and cheese was perfect.",
+                            "pid": "13-17"
+                        },
+                        {
+                            "id": "99-102",
+                            "isLeaf": false,
+                            "text": "The seafood was perfect.; Really love the seafood here.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The seafood was perfect.; Really love the seafood here.",
+                            "originalName": "The seafood was perfect.; Really love the seafood here.",
+                            "pid": "13-17",
+                            "children": [
+                                {
+                                    "id": "196-199",
+                                    "isLeaf": false,
+                                    "text": "The oysters are phenomenal!",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "The oysters are phenomenal!",
+                                    "originalName": "The oysters are phenomenal!",
+                                    "pid": "99-102"
+                                },
+                                {
+                                    "id": "176-180",
+                                    "isLeaf": false,
+                                    "text": "My crab legs were AMAZING!",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "My crab legs were AMAZING!",
+                                    "originalName": "My crab legs were AMAZING!",
+                                    "pid": "99-102"
+                                },
+                                {
+                                    "id": "167-170",
+                                    "isLeaf": false,
+                                    "text": "Crispy shrimp is amazing.",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "Crispy shrimp is amazing.",
+                                    "originalName": "Crispy shrimp is amazing.",
+                                    "pid": "99-102"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "24-28",
+                            "isLeaf": false,
+                            "text": "The food was well prepared.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "The food was well prepared.",
+                            "originalName": "The food was well prepared.",
+                            "pid": "13-17",
+                            "children": [
+                                {
+                                    "id": "171-175",
+                                    "isLeaf": false,
+                                    "text": "The presentation was incredible, too!",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "The presentation was incredible, too!",
+                                    "originalName": "The presentation was incredible, too!",
+                                    "pid": "24-28"
+                                },
+                                {
+                                    "id": "54-57",
+                                    "isLeaf": false,
+                                    "text": "Steaks are consistently perfect.",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "Steaks are consistently perfect.",
+                                    "originalName": "Steaks are consistently perfect.",
+                                    "pid": "24-28"
+                                },
+                                {
+                                    "id": "108-111",
+                                    "isLeaf": false,
+                                    "text": "Filet was cooked precisely.",
+                                    "addTreeNodeDisabled": true,
+                                    "addLeafNodeDisabled": true,
+                                    "delNodeDisabled": true,
+                                    "editNodeDisabled": false,
+                                    "name": "Filet was cooked precisely.",
+                                    "originalName": "Filet was cooked precisely.",
+                                    "pid": "24-28"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "65-68",
+                    "isLeaf": false,
+                    "text": "The ambience is wonderful.",
+                    "addTreeNodeDisabled": true,
+                    "addLeafNodeDisabled": true,
+                    "delNodeDisabled": true,
+                    "editNodeDisabled": false,
+                    "name": "The ambience is wonderful.",
+                    "originalName": "The ambience is wonderful.",
+                    "pid": 0,
+                    "children": [
+                        {
+                            "id": "213-217",
+                            "isLeaf": false,
+                            "text": "Very clean restaurant and bathroom.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Very clean restaurant and bathroom.",
+                            "originalName": "Very clean restaurant and bathroom.",
+                            "pid": "65-68"
+                        },
+                        {
+                            "id": "72-74",
+                            "isLeaf": false,
+                            "text": "Modern cool atmosphere.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Modern cool atmosphere.",
+                            "originalName": "Modern cool atmosphere.",
+                            "pid": "65-68"
+                        },
+                        {
+                            "id": "69-71",
+                            "isLeaf": false,
+                            "text": "Great lively atmosphere!",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Great lively atmosphere!",
+                            "originalName": "Great lively atmosphere!",
+                            "pid": "65-68"
+                        }
+                    ]
+                },
+                {
+                    "id": "75-78",
+                    "isLeaf": false,
+                    "text": "Staff is top notch.; Love the staff.",
+                    "addTreeNodeDisabled": true,
+                    "addLeafNodeDisabled": true,
+                    "delNodeDisabled": true,
+                    "editNodeDisabled": false,
+                    "name": "Staff is top notch.; Love the staff.",
+                    "originalName": "Staff is top notch.; Love the staff.",
+                    "pid": 0,
+                    "children": [
+                        {
+                            "id": "223-226",
+                            "isLeaf": false,
+                            "text": "No snooty service either.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "No snooty service either.",
+                            "originalName": "No snooty service either.",
+                            "pid": "75-78"
+                        },
+                        {
+                            "id": "128-132",
+                            "isLeaf": false,
+                            "text": "Staff is also very helpful.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Staff is also very helpful.",
+                            "originalName": "Staff is also very helpful.",
+                            "pid": "75-78"
+                        },
+                        {
+                            "id": "123-127",
+                            "isLeaf": false,
+                            "text": "Staff is polite and genuine.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Staff is polite and genuine.",
+                            "originalName": "Staff is polite and genuine.",
+                            "pid": "75-78"
+                        },
+                        {
+                            "id": "120-122",
+                            "isLeaf": false,
+                            "text": "Waitstaff incredibly professional.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Waitstaff incredibly professional.",
+                            "originalName": "Waitstaff incredibly professional.",
+                            "pid": "75-78"
+                        },
+                        {
+                            "id": "116-119",
+                            "isLeaf": false,
+                            "text": "Our waiter was awesome.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Our waiter was awesome.",
+                            "originalName": "Our waiter was awesome.",
+                            "pid": "75-78"
+                        },
+                        {
+                            "id": "112-115",
+                            "isLeaf": false,
+                            "text": "Waiter-very personable, kind, informative.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Waiter-very personable, kind, informative.",
+                            "originalName": "Waiter-very personable, kind, informative.",
+                            "pid": "75-78"
+                        },
+                        {
+                            "id": "94-98",
+                            "isLeaf": false,
+                            "text": "Great service and knowledgeable staff.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Great service and knowledgeable staff.",
+                            "originalName": "Great service and knowledgeable staff.",
+                            "pid": "75-78"
+                        },
+                        {
+                            "id": "91-93",
+                            "isLeaf": false,
+                            "text": "Very attentive staff.; Service was intuitive.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Very attentive staff.; Service was intuitive.",
+                            "originalName": "Very attentive staff.; Service was intuitive.",
+                            "pid": "75-78"
+                        },
+                        {
+                            "id": "82-85",
+                            "isLeaf": false,
+                            "text": "Friendly and quick service.",
+                            "addTreeNodeDisabled": true,
+                            "addLeafNodeDisabled": true,
+                            "delNodeDisabled": true,
+                            "editNodeDisabled": false,
+                            "name": "Friendly and quick service.",
+                            "originalName": "Friendly and quick service.",
+                            "pid": "75-78"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "documentName": "Key Point"
+}
