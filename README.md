@@ -66,9 +66,13 @@ $ git clone https://github.com/ariecattan/champ.git
 Then run the following npm commands to install and run the tool locally.
 ```shell
 $ npm install
-$ npm run --serve 
+$ npm run serve 
 ```
 
+If you want to create your own WebComponent, run the following:
+```shell
+$ npm run build
+```
 
 ## Configurate champ
 
