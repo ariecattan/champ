@@ -26,7 +26,7 @@ For a full walkthrough of CHAMP's features, check out our system demonstration v
 
 ### 1.  Annotation portal 
 
-The easiest way to use CHAMP is with the annotation [portal](https://cattana.pythonanywhere.com/), which allows you to update a JSON configuration file for annotation or consolidation, perform the task and download it upon completion. Then, you can upload again the annotation to vizualize your annotation. 
+The easiest way to use CHAMP is with the annotation portal ([website](https://cattana.pythonanywhere.com/); [repo](https://github.com/ariecattan/champ-demo)), which allows you to update a JSON configuration file for annotation or consolidation, perform the task and download it upon completion. Then, you can upload again the annotation to vizualize your annotation. 
 
 ### 2. CDN 
 
