@@ -1,10 +1,9 @@
 # CHAMP 
 
-This repository includes the code of CHAMP, an effective tool for annotating and consolidating a hierarchy of clusters. 
+This repository includes the code for the following paper (to appear to EMNLP 2023):
+[CHAMP: Efficient Annotation and Consolidation of Cluster Hierarchies](https://arxiv.org/pdf/2311.11301.pdf). 
 
-If you use this tool for your research, please cite our EMNLP 2023 paper: 
-CHAMP: Efficient Annotation and Consolidation of Cluster Hierarchies
-
+CHAMP is an effective tool for annotating and consolidating a hierarchy of clusters. 
 
 
 ## Annotation:
@@ -27,7 +26,7 @@ For a full walkthrough of CHAMP's features, check out our system demonstration v
 
 ### 1.  Annotation portal 
 
-The easiest way to use CHAMP is with the annotation [portal](https://cattana.pythonanywhere.com/), which allows you to update a JSON configuration file for annotation or consolidation, perform the task and download it upon completion. 
+The easiest way to use CHAMP is with the annotation [portal](https://cattana.pythonanywhere.com/), which allows you to update a JSON configuration file for annotation or consolidation, perform the task and download it upon completion. Then, you can upload again the annotation to vizualize your annotation. 
 
 ### 2. CDN 
 
@@ -101,7 +100,3 @@ TODO: add scripts
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-
-
-## Citation 
-
