@@ -94,7 +94,7 @@ Anntotators may also add notes for each node.
 Please refer to our [website](https://scico.apps.allenai.org/tool) for more details on the tool functionaly. 
 
 
-## Scripts to create consolidation file
+## Useful scripts
 
 * Given multiple annotated JSON files for the same topic, create an input configuration file for consolidation:
 ```bash
