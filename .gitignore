@@ -4,3 +4,5 @@ data
 internal_trial
 dist
 .DS_Store
+__pycache__
+tmp

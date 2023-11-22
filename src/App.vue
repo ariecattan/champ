@@ -163,24 +163,8 @@
 
 <script>
 
-// import jsonData from "/Users/cattana/Documents/kpa_graph/data_processing/data/consolidation/oXoVJ0xKv82cBo9U6oEjlQ_pos_chie_joekie_cons_gold.json"
+import jsonData from "./examples/onboarding_key_point.json"
 
-// import jsonData from "./data/mz9ltimeAIy2c2qf5ctljw_pos.json"
-// import jsonData from "./data/cons_input_PC_B00746W9F2_pos.json"
-
-// import jsonData from "./data/key_point_onboarding.json"
-// import jsonData from "/Users/cattana/Library/CloudStorage/Box-Box/KP Graph/data/corefi/Roy/new/austin2021_Q8A (1).json"
-// import jsonData from "/Users/cattana/Library/CloudStorage/Box-Box/KP Graph/data/annotator_scores/chie_tamara_cons_oXoVJ0xKv82cBo9U6oEjlQ_pos.json"
-
-// import jsonData from "/Users/cattana/Documents/kpa_graph/data_processing/data/amazon/chosen_topics/PC_B009LL9VDG_neg.json"
-
-// import jsonData from "/Users/cattana/Documents/kpa_graph/data_processing/data/review_example.json"
-// import jsonData from "/Users/cattana/Documents/kpa_graph/data_processing/data/annotation_trial/consolidation_example.json"
-
-// import jsonData from "/Users/cattana/Documents/kpa_graph/data_processing/data/austin/austin_all.json";
-
-// import jsonData from "/Users/cattana/Library/CloudStorage/Box-Box/KP Graph/data/annotation_prod/chie/2weQS-RnoOBhb1KsHKyoSQ_neg(2).json"
-import jsonData from "/Users/arie/Documents/ibm_internship/corefi_files/ukCTLs6T8LY1eUBXiAlmCg_pos/annotation_chie.json"
 
 import Vue from "vue";
 import Vuetify from "vuetify/lib";

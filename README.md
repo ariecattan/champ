@@ -96,8 +96,27 @@ Please refer to our [website](https://scico.apps.allenai.org/tool) for more deta
 
 ## Scripts to create consolidation file
 
-TODO: add scripts
+* Given multiple annotated JSON files for the same topic, create an input configuration file for consolidation:
+```bash
+python scripts/create_consolidation_file.py --input path/to/file1 path/to/file2 ... --output path/to/output
+```
 
+* Post-process CHAMP annotated files: create a simple machine-readable `data.jsonl` file for all annotated files in a directory and optionally create human-readable files for each annotation file.
+```bash
+input_dir= # path to directory of CHAMP output 
+output_dir= # where to save the data.jsonl file
+
+python scripts/process_champ_files.py --input_dir $input_dir --output_dir $output_dir --viz
+```
+
+
+* Compute IAA between multiple `data.jsonl` files. The script can process any number of annotators and will print a table `n x n` with the F1 score between every pair of annotators. Check out our [paper](https://aclanthology.org/2023.acl-long.52.pdf) for more details about the agreement scores.
+
+```bash
+python scripts/compute_agreement.py --annotators /path/to/data1.jsonl /path/to/data2.jsonl ... 
+```
+
+By default, the above script will average the agreement score on all common topics between annotator pairs. If you want to compute agreement only on some specific topics, just add a flag `--topics ...`
 
 ## License
 
