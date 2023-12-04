@@ -1,0 +1,269 @@
+{
+    "mode": "onboarding",
+    "fixableSpans": false,
+    "reassignable": false,
+    "tokens": [
+        {
+            "i": 0,
+            "document": 0,
+            "text": "This"
+        },
+        {
+            "i": 1,
+            "document": 0,
+            "text": "paper"
+        },
+        {
+            "i": 2,
+            "document": 0,
+            "text": "presents"
+        },
+        {
+            "i": 3,
+            "document": 0,
+            "text": "a"
+        },
+        {
+            "i": 4,
+            "document": 0,
+            "text": "CNN"
+        },
+        {
+            "i": 5,
+            "document": 0,
+            "text": "for"
+        },
+        {
+            "i": 6,
+            "document": 0,
+            "text": "Text"
+        },
+        {
+            "i": 7,
+            "document": 0,
+            "text": "Classification"
+        },
+        {
+            "i": 8,
+            "document": 1,
+            "text": "We"
+        },
+        {
+            "i": 9,
+            "document": 1,
+            "text": "propose"
+        },
+        {
+            "i": 10,
+            "document": 1,
+            "text": "a"
+        },
+        {
+            "i": 11,
+            "document": 1,
+            "text": "new"
+        },
+        {
+            "i": 12,
+            "document": 1,
+            "text": "convolutional"
+        },
+        {
+            "i": 13,
+            "document": 1,
+            "text": "neural"
+        },
+        {
+            "i": 14,
+            "document": 1,
+            "text": "network"
+        },
+        {
+            "i": 15,
+            "document": 1,
+            "text": "for"
+        },
+        {
+            "i": 16,
+            "document": 1,
+            "text": "sentiment"
+        },
+        {
+            "i": 17,
+            "document": 1,
+            "text": "analysis"
+        }
+    ],
+    "mentions": [
+        {
+            "start": 4,
+            "end": 4,
+            "clustId": [
+                "4-4"
+            ]
+        },
+        {
+            "start": 6,
+            "end": 7,
+            "clustId": [
+                "4-4"
+            ]
+        },
+        {
+            "start": 12,
+            "end": 14,
+            "clustId": [
+                "16-17"
+            ]
+        },
+        {
+            "start": 16,
+            "end": 17,
+            "clustId": [
+                "16-17"
+            ]
+        }
+    ],
+    "selectedCluster": "4-4",
+    "tourSteps": [
+        {
+            "target": "#dashboard",
+            "header": {
+                "title": "CoRefi Onboarding!"
+            },
+            "content": "This experience will walkthrough how to perform the annotation of concept linking and hierarchy."
+        },
+        {
+            "target": "#dashboard",
+            "header": {
+                "title": "CoRefi Getting Started!"
+            },
+            "content": "Displayed on the screen below is a document and two mentions."
+        },
+        {
+            "target": ".cluster",
+            "header": {
+                "title": "Cluster Mentions"
+            },
+            "content": "The first Mention is automatically assigned to it's own Coreference <span class=\"cluster\">Cluster</span>."
+        },
+        {
+            "target": ".v-chip--active",
+            "header": {
+                "title": "Cluster Bank"
+            },
+            "content": "Clusters are managed in the cluster bank.",
+            "params": {
+                "placement": "top"
+            }
+        },
+        {
+            "target": ".v-chip--active",
+            "header": {
+                "title": "Selecting Clusters"
+            },
+            "content": "Clusters can be selected with the arrow keys in the cluster bank, or by clicking on a previously assigned mention.",
+            "params": {
+                "placement": "top"
+            }
+        },
+        {
+            "target": ".current",
+            "header": {
+                "title": "Current Mention"
+            },
+            "content": "The current mention is underlined in <span class=\"current\">purple</span>."
+        },
+        {
+            "target": ".current",
+            "header": {
+                "title": "Assigning Mentions"
+            },
+            "content": "The <span class=\"current\">current mention</span> can be assigned to the <span class=\"cluster\">selected cluster</span> with the SPACE bar."
+        },
+        {
+            "target": ".current",
+            "header": {
+                "title": "Assigning a New Cluster"
+            },
+            "content": "If the current mention does not belong to any cluster in the cluster bank, it can be assigned to new cluster with Ctrl + SPACE (Windows) or Option + SPACE (MacOS), or click on the <span style='color:#2d9cdb;background-color:#ddeff9'> + </span> at the bottom left."
+        },
+        {
+            "target": ".current",
+            "header": {
+                "title": "Reassigning a Mention"
+            },
+            "content": "If a mention was incorrectly assigned, you can select it for reassignment at any point with Ctrl + Click (Windows) or Option + Click (MacOS) or Double Click (ALL) on the mention."
+        },
+        {
+            "target": ".current",
+            "header": {
+                "title": "Help and Controls"
+            },
+            "content": "If you ever forget any of the controls, all of CoRefi's functionality can be found in the help menu. Just click on the black '?' in the top left corner of the screen."
+        },
+        {
+            "target": ".hypernym",
+            "header": {
+                "title": "Hierarchy"
+            },
+            "params": {
+                "placement": "left"
+            },
+            "content": "Here, you will build the hierarchy of clusters using drag-and-drop. You can alternate between concept linking and the hierarchy."
+        },
+        {
+            "target": ".reset",
+            "header": {
+                "title": "Reset Hierarchy"
+            },
+            "params": {
+                "placement": "right"
+            },
+            "content": "Click on this Reset button if you want to start the hierarchy from scratch."
+        },
+        {
+            "target": ".current",
+            "header": {
+                "title": "Finish The Annotation"
+            },
+            "content": "Let's start the annotation. Text classification is not the same concept as CNN, so please create a new cluster and continue to the next mentions."
+        }
+    ],
+    "goldMentions": [
+        {
+            "start": 6,
+            "end": 7,
+            "clustId": "6-7",
+            "validMessage": "Great! You succesfully created a new cluster (see in the cluster bank and in the hierarchy)!",
+            "defaultErrorMessage": "Not quite! Text classification should be a new cluster!"
+        },
+        {
+            "start": 12,
+            "end": 14,
+            "clustId": "4-4",
+            "validMessage": "Correct! CNN is the acronym of Convolutional Neural Network and they should be marked as identical!",
+            "defaultErrorMessage": "That's not quite right, CNN and Convolutional Neural Network are exactly the same method!"
+        },
+        {
+            "start": 16,
+            "end": 17,
+            "clustId": "16-17",
+            "validMessage": "Correct! This is a new cluster!",
+            "clusterErrorMessages": {
+                "4-4": "That's not quite right! Sentiment Analysis and CNN are not the same!",
+                "6-7": "That's not quite right! Although Sentiment Analysis is a ''type of'' Text Classification, it's not the same task!"
+            }
+        }
+    ],
+    "snackbarTimeout": -1,
+    "hierarchy": true,
+    "myOptions": {
+        "labels": {
+            "buttonSkip": "Skip tour",
+            "buttonPrevious": "Previous",
+            "buttonNext": "Next",
+            "buttonStop": "Start Annotation"
+        }
+    }
+}

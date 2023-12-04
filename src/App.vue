@@ -164,7 +164,8 @@
 <script>
 
 import jsonData from "./examples/onboarding_key_point.json"
-
+// import jsonData from "./examples/annotation_key_point.json"
+// import jsonData from "./examples/onboarding_scico_sentiment.json"
 
 import Vue from "vue";
 import Vuetify from "vuetify/lib";
