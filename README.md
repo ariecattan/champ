@@ -83,7 +83,10 @@ See below the important parameters in the JSON config file:
 * `hierarchy`: (true or false) whether to allow or not annotation of hierarchy between clusters
 * `tokens`: list of flatten tokens from all documents, each token needs to include {`i`: incremental index, `document`: doc_id of the document, `text`} and optionally `paragraph` 
 * `mentions`: list of candidate mentions to annotate, each mention needs to include {`start`, `end`}. In addition, in the onboarding and reviewer mode, you also need to add a `clustId` field for each mention, which is an array of cluster IDs. The format of each cluster ID is "start-end" of the first mention in the cluster. For the annotation mode, only the first mention needs to have a `clustId`. 
+* `selectedCluster`: cluster ID of the first cluster. 
 * `local`: True of False, whether to add a button for downloading the annotation at the end of the annotation. The downloaded annotation file can be further uploaded to the tool for vizualizing your annotation/consolidation. 
+* `fixableSpans`: True or False, whether to allow annotators to modify spans.
+* `reassignable`: True or False, whether to allow annotators to update their previous annotation. It should be `true` for most cases except onboarding. 
 
 The hierarchy of clusters is built using simple drag-and-drop operations. 
 
